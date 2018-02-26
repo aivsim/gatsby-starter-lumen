@@ -33,11 +33,6 @@ His major work, the Gutenberg Bible (also known as the 42-line Bible), has been 
 
 Around 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a “secret”. It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–1440, the Dutch Laurens Janszoon Coster came up with the idea of printing. Legend has it that the idea came to him “like a ray of light”.
 
-<figure class="float-left" style="width: 240px">
-	<img src="./Printing-press.png" alt="Early Printing Press">
-	<figcaption>Early wooden printing press as depicted in 1568.</figcaption>
-</figure>
-
 Until at least 1444 he lived in Strasbourg, most likely in the St. Arbogast parish. It was in Strasbourg in 1440 that Gutenberg is said to have perfected and unveiled the secret of printing based on his research, mysteriously entitled Kunst und Aventur (art and enterprise). It is not clear what work he was engaged in, or whether some early trials with printing from movable type may have been conducted there. After this, there is a gap of four years in the record. In 1448, he was back in Mainz, where he took out a loan from his brother-in-law Arnold Gelthus, quite possibly for a printing press or related paraphernalia. By this date, Gutenberg may have been familiar with intaglio printing; it is claimed that he had worked on copper engravings with an artist known as the Master of Playing Cards.
 
 By 1450, the press was in operation, and a German poem had been printed, possibly the first item to be printed there. Gutenberg was able to convince the wealthy moneylender Johann Fust for a loan of 800 guilders. Peter Schöffer, who became Fust’s son-in-law, also joined the enterprise. Schöffer had worked as a scribe in Paris and is believed to have designed some of the first typefaces.

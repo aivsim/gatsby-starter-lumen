@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://aivarassimulis.xyz',
+    title: 'Blog by Aivaras Simulis',
+    subtitle: 'passionate web developer, restless improver, innermost empath, and biggest, relentless fan of new things',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'https-aivarassimulis-xyz',
     menu: [
       {
         label: 'Articles',
         path: '/'
       },
       {
-        label: 'About me',
-        path: '/about/'
+        label: 'Me in the workplace',
+        path: '/me-in-the-workplace/'
       },
       {
         label: 'Contact me',
@@ -20,13 +20,15 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Aivaras Šimulis',
+      email: 'aivaras.simulis@outlook.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'aivsim',
+      github: 'aivsim',
       rss: '#',
-      vk: '#'
+      vk: '#',
+      facebook: 'aivarassimulis',
+      linkedin: 'aivarassimulis'
     }
   },
   plugins: [
@@ -161,6 +163,24 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-postcss-sass'
+    'gatsby-plugin-postcss-sass',
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/favicon.png",
+        injectHTML: true,
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          twitter: false,
+          yandex: false,
+          windows: true
+        }
+      }
+    }
   ]
 };
