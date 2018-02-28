@@ -11,12 +11,20 @@ module.exports = {
         path: '/'
       },
       {
-        label: 'Me in the workplace',
-        path: '/me-in-the-workplace/'
+        label: 'Experience',
+        path: '/experience/'
       },
       {
-        label: 'Contact me',
-        path: '/contact/'
+        label: 'Education',
+        path: '/education/'
+      },
+      {
+        label: 'Lifelong learning',
+        path: '/lifelong-learning/'
+      },
+      {
+        label: 'Me in the workplace',
+        path: '/me-in-the-workplace/'
       }
     ],
     author: {
