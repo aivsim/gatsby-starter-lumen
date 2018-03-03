@@ -3,89 +3,6 @@ title: "Lifelong learning"
 layout: page
 path: "/lifelong-learning"
 ---
-<!-- 
-<table>
-  <thead>
-    <tr>
-      <th style="width: 80%">Test</th>
-      <th style="width: 20%">Test</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://1drv.ms/b/s!AhQWgU5OurTKjIEiATRJODl12UhxiA">
-          Digital Garage: The Online Marketing Fundamentals
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youracclaim.com/badges/e2b1e93a-2b91-4b0d-9eb4-51036aaff606/linked_in_profile">
-          IBM: Blockchain Essentials
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youracclaim.com/badges/702c4ea5-13a1-4282-998d-a0e80a410419/linked_in_profile">
-          Microsoft Certified Solutions Developer: App Builder
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youracclaim.com/badges/fc3485bb-bf95-45dd-a380-ba69ba7de718/linked_in_profile">
-          Developing Microsoft Azure and Web Services
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youracclaim.com/badges/7c743e24-de83-4ad1-bc31-8a7420538f9f">
-          Microsoft Certified Solutions Associate: Web Applications
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youracclaim.com/badges/2bbe4b67-414a-426c-b535-d7e61341cb63">
-          Exam 486: Developing ASP.NET MVC Web Applications
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.microsoft.com/en-us/learning/microsoft-certified-professional.aspx">
-          Microsoft Certified Professional: Microsoft Certified Professional
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youracclaim.com/badges/d6d79c1c-b26b-4f53-b2b6-2b7494a3f6c0">
-          Microsoft Specialist: Programming in HTML5 with Javascript and CSS3
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youracclaim.com/badges/d6d79c1c-b26b-4f53-b2b6-2b7494a3f6c0">
-        Exam 480: Programming in HTML5 with JavaScript and CSS3
-        </a>
-      </td>
-      <td>2018-02-18</td> 
-    </tr>
-  </tbody>
-</table> -->
 
 ##Certifications</h2>
 
@@ -101,18 +18,6 @@ path: "/lifelong-learning"
 | [Microsoft Specialist: Programming in HTML5 with Javascript and CSS3](https://www.youracclaim.com/badges/d6d79c1c-b26b-4f53-b2b6-2b7494a3f6c0)       | (*2015-08-15*) |
 | [Exam 480: Programming in HTML5 with JavaScript and CSS3](https://www.youracclaim.com/badges/d6d79c1c-b26b-4f53-b2b6-2b7494a3f6c0)                   | (*2015-08-15*) |
 
-##Meetings</h2>
-|                                                                              |                    |
-| ---------------------------------------------------------------------------- | ------------------ |
-| [Kaunas Blockchain Meetup](https://www.meetup.com/Kaunas-Blockchain-Meetup/) | (*2018 - Present*) |
-| [KIT club](https://facebook.com/groups/KITclubas/)                           | (*2016 - Present*) |
-| [.NET Crowd](http://dotnetcrowd.lt/)                                         | (*2015 - Present*) |
-
-##Conferences</h2>
-|                                                                        |                    |
-| ---------------------------------------------------------------------- | ------------------ |
-| [Agile Tour Lithuania](http://agileturas.lt/)                          | (*2013 - Present*) |
-| [High Load Strategy](https://www.facebook.com/events/739492666186403/) | (*2016*)           |
 
 ##MOOC Courses</h2>
 ####[Pluralsight:](https://app.pluralsight.com/)
@@ -150,6 +55,7 @@ path: "/lifelong-learning"
 | Clean Code: Writing Code for Humans                              |                |
 
 ####[Microsoft virtual academy:](https://mva.microsoft.com/)
+
 |                                                                 |                |
 | --------------------------------------------------------------- | -------------- |
 | Mastering Azure App Service, Part 4: Building Azure Mobile Apps | (*2017-04-30*) |
@@ -180,6 +86,19 @@ path: "/lifelong-learning"
 | Developing in HTML5 with JavaScript and CSS3 Jump Start         | (*2015-02-08*) |
 | Microsoft Azure Fundamentals                                    | (*2015-02-08*) |
 | What’s New in Windows® 8.1 for IT Professionals                | (*2013-12-27*) |
+
+##Meetings</h2>
+|                                                                              |                    |
+| ---------------------------------------------------------------------------- | ------------------ |
+| [Kaunas Blockchain Meetup](https://www.meetup.com/Kaunas-Blockchain-Meetup/) | (*2018 - Present*) |
+| [KIT club](https://facebook.com/groups/KITclubas/)                           | (*2016 - Present*) |
+| [.NET Crowd](http://dotnetcrowd.lt/)                                         | (*2015 - Present*) |
+
+##Conferences</h2>
+|                                                                        |                    |
+| ---------------------------------------------------------------------- | ------------------ |
+| [Agile Tour Lithuania](http://agileturas.lt/)                          | (*2013 - Present*) |
+| [High Load Strategy](https://www.facebook.com/events/739492666186403/) | (*2016*)           |
 
 ####[Coursera:](https://www.coursera.org/)
 |                                                                                |     |

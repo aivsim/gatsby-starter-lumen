@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     url: 'https://aivarassimulis.xyz',
-    title: 'Blog by Aivaras Simulis',
+    title: 'Blog by Aivaras Šimulis',
     subtitle: 'passionate web developer, restless improver, innermost empath, biggest, relentless fan of new things',
     copyright: '© All rights reserved.',
     disqusShortname: 'https-aivarassimulis-xyz',
