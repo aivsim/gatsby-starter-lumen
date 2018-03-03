@@ -1,3 +1,9 @@
+---- FIREBASE:
+https://firebase.google.com/docs/hosting/deploying
+npm install -g firebase-tools
+firebase init
+firebase deploy
+
 ---- PACKAGES:
 https://github.com/nodejs/node-gyp
 npm install -g node-gyp
