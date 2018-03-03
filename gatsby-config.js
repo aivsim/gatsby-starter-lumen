@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://aivarassimulis.xyz',
     title: 'Blog by Aivaras Simulis',
-    subtitle: 'passionate web developer, restless improver, innermost empath, and biggest, relentless fan of new things',
+    subtitle: 'passionate web developer, restless improver, innermost empath, biggest, relentless fan of new things',
     copyright: '© All rights reserved.',
     disqusShortname: 'https-aivarassimulis-xyz',
     menu: [
@@ -178,15 +178,15 @@ module.exports = {
         logo: "./src/favicon.png",
         injectHTML: true,
         icons: {
-          android: true,
-          appleIcon: true,
-          appleStartup: true,
+          android: false,
+          appleIcon: false,
+          appleStartup: false,
           coast: false,
           favicons: true,
           firefox: true,
           twitter: false,
           yandex: false,
-          windows: true
+          windows: false
         }
       }
     }

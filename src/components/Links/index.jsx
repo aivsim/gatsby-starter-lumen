@@ -18,7 +18,7 @@ class Links extends React.Component {
 
     return (
       <div>
-        <p className="sidebar__author-subtitle"><em>interested working with me?<br/>let's connect!</em></p>
+        <p className="sidebar__author-subtitle"><em>interested in working with me?<br/>let's connect!</em></p>
         <div className="links">
           <ul className="links__list">
             <li className="links__list-item">

@@ -1,0 +1,40 @@
+---- PACKAGES:
+https://github.com/nodejs/node-gyp
+npm install -g node-gyp
+Install all the required tools and configurations using Microsoft's windows-build-tools using 
+npm install --global --production windows-build-tools from an elevated PowerShell or CMD.exe (run as Administrator).
+
+---- GLOBAL:
+.NET Core SDK 2.0;
+Visual Studio Community;
+
+Logo:
+Avatar - user
+Icon - minimal
+
+References:	
+https://madskristensen.net/blog/miniblogcore-is-a-new-blog-engine-built-using-aspnet-core-20/
+
+---- GIT:
+1. Fork https://github.com/madskristensen/Miniblog.Core to your GitHub account;
+2. Clone your forked repository https://github.com/aivsim/Miniblog.Core;
+3. Add upstream repository that has to be synced with your fork.
+   Project folder -> Tortoise settings -> Git -> Remote -> Add new "upstream" 
+   remote with https://github.com/madskristensen/Miniblog.Core URL;
+4. Fetch the upstream repository;
+5. Pull the upstream repository;
+6. Resolve any merge conflicts;
+7. Push to the origin master branch;
+
+References:
+1. https://www.arundhaj.com/blog/merging-upstream-repository-into-fork-tortoise-git.html
+2. https://forum.kodi.tv/showthread.php?tid=229467
+
+---- AZURE:
+1. Install Microsoft Web Platform Installer and then run it;
+2. Install Web Deploy 3.6 and restart computer;
+3. Open project with Visual Studio, right click on project in solution Explorer and click "Publish";
+4. TODO: research about account migration if current Dreamspark subscription expires;
+
+To override settings:
+1. https://stackoverflow.com/questions/40206779/how-can-i-change-a-setting-in-appsettings-json-after-auto-deploy
