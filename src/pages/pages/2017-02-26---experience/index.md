@@ -7,7 +7,6 @@ path: "/experience"
 Currently I’m working as a **Full Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in **Blockchain methodologies, Etherium, Stratis projects**. Follow the news, try them out by developing some of the demo projects.
 
 ##Workplaces
-
 ####Amidus
 
 <figure class="float-right" style="width: 100px; margin: 0px">
@@ -20,7 +19,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 - Developing: work with .NET, .NET Core, C#, HTML5, CSS3, Bootstrap, JavaScript, Typescript, Jquery, KnockoutJS, AngularJS, React, Redux, Flux, D3, EF, Visual Studio, Visual Studio Code, MS SQL Server, Node.js, Webpack, Gulp, TFS, GIT technologies. Developing system, system modules, helping on task and project management.
 - Communicating: Co-operation on projects with other companies. Meetings and communication between testers, project managers and other developers.
 
-<a href="http://www.amidus.lt" target="_blank">More about the company</a>
+<a href="http://www.amidus.lt/about/" target="_blank">More about the company</a>
 
 ####Callcredit Information Group
 
@@ -35,7 +34,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 - Communicating: work experience in a team consisting of 3 team members and nearly 18 assisting staff members. Meetings with team staff, business visionary. Use of Agile project management methodologies.
 - Engineering: coding, peer review, unit test, documentation writing activities. Code deployment to QA environment.
 
-<a href="https://www.callcredit.co.uk/" target="_blank">More about the company</a>
+<a href="https://www.callcredit.co.uk/about-us" target="_blank">More about the company</a>
 
 ##Work Projects
 
