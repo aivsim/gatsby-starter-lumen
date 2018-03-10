@@ -375,6 +375,10 @@ path: "/lifelong-learning"
     </thead>
     <tbody>
         <tr>
+            <td><a target="_blank" href="https://www.facebook.com/events/336812826838800/">Blockchain and Anatomy of Cryptanalysis: A Fashion or Business Tool?</a><br/></td>
+            <td>2018-03-09</td>
+        </tr>
+        <tr>
             <td><a target="_blank" href="http://agileturas.lt/">Agile Tour Lithuania</a></td>
             <td>2013 - Present</td>
         </tr>

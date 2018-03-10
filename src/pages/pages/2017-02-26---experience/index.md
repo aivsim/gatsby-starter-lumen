@@ -4,7 +4,7 @@ layout: page
 path: "/experience"
 ---
 
-Currently I’m working as a **Full Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in **Blockchain methodologies, Etherium, Stratis projects**. Follow the news, try them out by developing some of the demo projects.<br />
+Currently I’m working as a **Full Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in **Blockchain methodologies, Etherium, ICON projects**. Following the news, trying them out by developing some of the demo projects.<br />
 **Accepting freelance jobs and projects.** Feel free to contact me with your proposals.
 
 ##Workplaces
@@ -21,7 +21,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 - Communicating: Co-operation on projects with other companies. Meetings and communication between testers, project managers and other developers.
 
 <a href="http://www.amidus.lt/about/" target="_blank">Visit website</a> |
-<a href="/experience/workplaces/amidus">Read more</a>
+<a href="/experience/workplaces/amidus">My story in the company</a>
 
 ####Callcredit Information Group
 
@@ -37,7 +37,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 - Engineering: coding, peer review, unit test, documentation writing activities. Code deployment to QA environment.
 
 <a href="https://www.callcredit.co.uk/about-us" target="_blank">Visit website</a> |
-<a href="/experience/workplaces/callcredit">Read more</a>
+<a href="/experience/workplaces/callcredit">My story in the company</a>
 
 ##Work Projects
 ####E-Health services and cooperation infrastructure information system
@@ -66,7 +66,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 *Jul 2013 – Aug 2013*<br/>
 <a href="/experience/projects/employees-evaluation-system">Read more</a>
 
-*All other individual Custom and Demo projects can be found on my github page*
+*All other individual Custom and Demo projects can be found on my <a href="https://github.com/">GitHub</a> page.*
 
 <!-- ##Freelance
 In my spare time I am also working:

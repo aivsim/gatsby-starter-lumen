@@ -31,7 +31,7 @@ module.exports = {
       name: 'Aivaras Šimulis',
       email: 'aivaras.simulis@outlook.com',
       telegram: '#',
-      twitter: 'aivsim',
+      twitter: 'aivarassimulis',
       github: 'aivsim',
       rss: '#',
       vk: '#',
