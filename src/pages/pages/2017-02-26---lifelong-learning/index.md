@@ -4,7 +4,7 @@ layout: page
 path: "/lifelong-learning"
 ---
 
-##Certifications</h2>
+##Certificates</h2>
 <table style="width: 100%">
     <colgroup>
        <col span="1" width="80%">
@@ -52,7 +52,7 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-##MOOC Courses</h2>
+##MOOC courses</h2>
 ####[Pluralsight:](https://app.pluralsight.com/)
 <table style="width: 100%">
     <colgroup>
@@ -356,6 +356,9 @@ path: "/lifelong-learning"
         </tr>
         <tr>
             <td><a target="_blank" href="https://facebook.com/groups/KITclubas/">KIT Club</a></td>
+            <td>2016 - Present</td>
+        </tr><tr>
+            <td><a target="_blank" href="http://kaunasjs.lt/">Kaunas JS</a></td>
             <td>2016 - Present</td>
         </tr>
         <tr>

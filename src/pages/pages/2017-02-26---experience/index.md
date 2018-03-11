@@ -53,11 +53,11 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 *Jun 2016 – Jan 2017*<br/>
 <a href="/experience/projects/business-service-center-procurement-sharepoint-site">Read more</a>
 
-####Lithuanian state forests management information system
+####Lithuania state forests management information system
 *Apr 2015 – Oct 2015*<br/>
 <a href="/experience/projects/lithuanian-state-forests-management-information-system">Read more</a>
 
-####Lithuanian University of Health Sciences public health care services information system
+####Lithuania University of Health Sciences public health care services information system
 *Jun 2014 – Apr 2015*<br/>
 <a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a> |
 <a href="/experience/projects/lithuanian-university-of-health-sciences-public-health-care-services-information-system">Read more</a>

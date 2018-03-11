@@ -6,6 +6,13 @@ path: "/me-in-the-workplace"
 
 I am an accomplished professional in web development with 3 years of experience and a passion to create IT products and solutions which would **help people in the most humane**, **sincere** and **reliable ways** as possible. I adore working in **healthcare**, **education** and **business** fields. I’m **capable to design, implement and maintain** wide variety of systems. Strong in web development using both, **server side** and **client side** technologies. **I‘m really fascinated with how new technologies are developing and I am proud of myself being a part of it**.
 
+I am always looking to continue career in a company which meets all of qualifications: 
+* Friendly team and good working conditions with interesting, intelligent people who care about their work.
+* Recognition and appreciation from co-workers for making a difference.
+* A continual stream of new and interesting learning activities.
+* Opportunity to be creative and innovative.
+* A sense of making something useful. 
+
 <hr/>
 
 I have pretty tall demands when it comes to a satisfying work environment. Not only I need to be able to express my creativity and insight, I also need to know that what I am doing has meaning, helps people, leads to personal growth and, all the while, is in line with my values, principles and beliefs.
