@@ -66,7 +66,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 *Jul 2013 – Aug 2013*<br/>
 <a href="/experience/projects/employees-evaluation-system">Read more</a>
 
-*All other individual Custom and Demo projects can be found on my <a href="https://github.com/">GitHub</a> page.*
+*All other individual Custom and Demo projects can be found on my <a href="https://github.com/aivsim" target="_blank">GitHub</a> page.*
 
 <!-- ##Freelance
 In my spare time I am also working:
