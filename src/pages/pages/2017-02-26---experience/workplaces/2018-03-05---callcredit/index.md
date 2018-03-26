@@ -10,6 +10,13 @@ I was contacted by one of my study group members, Julius, with whom I was a grea
 
 Callcredit was our main and first target. We ourselfes came forward for them and requested an opportunity for an internship positions and if they could let us work there for the summer. They were intrigued, suprised and bewildered at the same time by our desire to gain knowledge - that's what I think gave us an edge in this position, we were very young and enthusiastic.
 
+
+
+<figure>
+	<img src="./workplace-from-the outside.jpg" alt="Workplace from the outside">
+	<figcaption>Workplace from the outside</figcaption>
+</figure>
+
 We attended our motivational interview. We talked with the company director, HR manager, our intended project manager and the rest of our support and technical team members. It went really well. They aggreed to teach us, we even offered to work for free, just for the knowledge and eperience, but they felt too uncomfortable and even agreed to pay for us for our work. Following our recent conversations, they were delighted to make us an offer of internship in Software Engineering department. They were confident we will be a great asset to their successful team. Told us to expect to receive encouragement and support to help nurture the important skills that we brought to this role and thus creating a winning formula for the achievement of our own goals and those of the Company. 
 
 For employment we needed to get Legal right to work confirmation, identity verification, address check, employment check, credit reference check, criminal records bureau check.
