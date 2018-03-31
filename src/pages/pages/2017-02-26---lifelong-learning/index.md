@@ -4,6 +4,106 @@ layout: page
 path: "/lifelong-learning"
 ---
 
+##Books</h2>
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" width="70%">
+       <col span="1" width="30%">
+    </colgroup>
+    <thead>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/17255186-the-phoenix-project">
+                    The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+                </a>
+            </td>
+            <td>Gene Kim, Kevin Behr, George Spafford</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/9778945-the-shallows">
+                    The Shallows: What the Internet Is Doing to Our Brains
+                </a>
+            </td>
+            <td>Nicholas Carr</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection">
+                    The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are
+                </a>
+            </td>
+            <td>Brené Brown</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/13523061-the-defining-decade">
+                    The Defining Decade: Why Your Twenties Matter - And How to Make the Most of Them Now
+                </a>
+            </td>
+            <td>Meg Jay</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/6125225-peaks-and-valleys">
+                    Peaks and Valleys: Making Good And Bad Times Work For You--At Work And In Life
+                </a>
+            </td>
+            <td>Spencer Johnson</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/18222843-stuff-matters">
+                    Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
+                </a>
+            </td>
+            <td>Mark Miodownik</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything">
+                    A Short History of Nearly Everything
+                </a>
+            </td>
+            <td>Bill Bryson</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/14975258-pro-asp-net-mvc-4">
+                    Pro ASP.Net MVC 4
+                </a>
+            </td>
+            <td>Adam Freeman, Steve Sanderson</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/17152335-exam-ref-70-486">
+                    Exam Ref 70-486: Developing ASP.NET MVC 4 Web Applications
+                </a>
+            </td>
+            <td>William Sanders</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/23246326-exam-ref-70-480-programming-in-html5-with-javascript-and-css3-mcsd">
+                    Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3 (MCSD): Programming in HTML5 with JavaScript and CSS3
+                </a>
+            </td>
+            <td>Rick Delorme</td>
+        </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/16144439-training-guide">
+                    Training Guide: Programming in HTML5 with JavaScript and CSS3
+                </a>
+            </td>
+            <td>Glenn Johnson</td>
+        </tr>
+    </tbody>
+</table>
+
 ##Certificates</h2>
 <table style="width: 100%">
     <colgroup>
