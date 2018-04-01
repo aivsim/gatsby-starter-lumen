@@ -6,7 +6,7 @@ import Sidebar from '../components/Sidebar';
 class IndexRoute extends React.Component {
   render() {
     const items = [];
-    const { title, subtitle } = this.props.data.site.siteMetadata;
+    const { title, subtitle, description } = this.props.data.site.siteMetadata;
     const posts = this.props.data.allMarkdownRemark.edges;
     posts.forEach((post) => {
       items.push(<Post data={post} key={post.node.fields.slug} />);
@@ -16,7 +16,7 @@ class IndexRoute extends React.Component {
       <div>
         <Helmet>
           <title>{title}</title>
-          <meta name="description" content={subtitle} />
+          <meta name="description" content={description} />
         </Helmet>
         <Sidebar {...this.props} />
         <div className="content">
@@ -37,6 +37,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         subtitle
+        description
         copyright
         menu {
           label

@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     url: 'https://aivarassimulis.xyz',
-    title: 'Blog by Aivaras Šimulis',
+    title: 'Blog by Aivaras Simulis',
     subtitle: 'passionate web developer, restless improver, innermost empath, biggest, relentless fan of new things',
+    description: 'Hello, my dear reader. Here you can find more information about myself as a developer - accomplishments, projects, learnings, experiences, thoughts, interests, blog posts and many more from a professional perspective. I will be happy to share them with you, especially if you could to take something out from all of it and take it with you. I invite you to grow together! Feel free to come by!',
     copyright: '© All rights reserved.',
     disqusShortname: 'https-aivarassimulis-xyz',
     menu: [
@@ -28,7 +29,7 @@ module.exports = {
       }
     ],
     author: {
-      name: 'Aivaras Šimulis',
+      name: 'Aivaras Simulis',
       email: 'aivaras.simulis@outlook.com',
       telegram: '#',
       twitter: 'aivarassimulis',

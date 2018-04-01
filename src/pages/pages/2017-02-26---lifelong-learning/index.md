@@ -4,16 +4,61 @@ layout: page
 path: "/lifelong-learning"
 ---
 
-##Books</h2>
+<h2>Contents</h2>
+<ul>
+    <li>
+        <a href="#books">Books</a>
+        <span> |</span>
+        <a href="https://www.goodreads.com/user/show/47752916-aivaras-imulis" target="_blank"> <small> goodreads</small></a>
+    </li>
+    <li>
+        <a href="#certificates">Certificates</a>
+        <span> |</span>
+        <a href="https://www.youracclaim.com/user/aivaras-simulis" target="_blank"> <small> yourAcclaim</small></a>
+    </li>
+    <li>
+        <a href="#courses">Courses</a>
+        <span> |</span>
+        <a href="https://app.pluralsight.com" target="_blank"> <small> pluralsight</small></a>,
+        <a href="https://mva.microsoft.com" target="_blank"> <small> microsoft virtual academy</small></a>,
+        <a href="https://www.coursera.org" target="_blank"> <small> coursera</small></a>,
+        <a href="https://courses.edx.org" target="_blank"> <small> edx</small></a>
+    </li>
+    <li>
+        <a href="#meetings">Meetings</a>
+        <span> |</span>
+    </li>
+    <li>
+        <a href="#conferences">Conferences</a>
+        <span> |</span>
+    </li>
+    <li>
+        <a href="#articles">Articles</a>
+        <span> |</span>
+        <a href="https://dev.to/aivarassimulis" target="_blank"> <small> dev.to</small></a>,
+        <a href="https://medium.com/@aivarassimulis" target="_blank"> <small> medium</small></a>
+    </li>
+</ul>
+
+<h2 id="books">
+    <span>Books</span>
+    <a href="#books" aria-label="Anchor"> #</a>
+    <span> |</span>
+    <a href="https://www.goodreads.com/user/show/47752916-aivaras-imulis" target="_blank"> <small> Goodreads</small></a>
+</h2>
 <table style="width: 100%">
     <colgroup>
+       <col span="1" width="10%">
        <col span="1" width="70%">
-       <col span="1" width="30%">
+       <col span="1" width="20%">
     </colgroup>
     <thead>
     </thead>
     <tbody>
         <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1361113128l/17255186.jpg" />
+            </td>
             <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/17255186-the-phoenix-project">
                     The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
@@ -23,6 +68,9 @@ path: "/lifelong-learning"
         </tr>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1349066787l/9778945.jpg" />
+            </td>
+            <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/9778945-the-shallows">
                     The Shallows: What the Internet Is Doing to Our Brains
                 </a>
@@ -30,6 +78,9 @@ path: "/lifelong-learning"
             <td>Nicholas Carr</td>
         </tr>
         <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1369092544l/7015403.jpg" />
+            </td>
             <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection">
                     The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are
@@ -39,6 +90,9 @@ path: "/lifelong-learning"
         </tr>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1334798998l/13523061.jpg" />
+            </td>
+            <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/13523061-the-defining-decade">
                     The Defining Decade: Why Your Twenties Matter - And How to Make the Most of Them Now
                 </a>
@@ -46,6 +100,9 @@ path: "/lifelong-learning"
             <td>Meg Jay</td>
         </tr>
         <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1438539349l/6125225.jpg" />
+            </td>
             <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/6125225-peaks-and-valleys">
                     Peaks and Valleys: Making Good And Bad Times Work For You--At Work And In Life
@@ -55,6 +112,9 @@ path: "/lifelong-learning"
         </tr>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1382416634l/18222843.jpg" />
+            </td>
+            <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/18222843-stuff-matters">
                     Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
                 </a>
@@ -62,6 +122,9 @@ path: "/lifelong-learning"
             <td>Mark Miodownik</td>
         </tr>
         <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1433086293l/21.jpg" />
+            </td>
             <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything">
                     A Short History of Nearly Everything
@@ -71,6 +134,9 @@ path: "/lifelong-learning"
         </tr>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1356670439l/14975258.jpg" />
+            </td>
+            <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/14975258-pro-asp-net-mvc-4">
                     Pro ASP.Net MVC 4
                 </a>
@@ -78,6 +144,9 @@ path: "/lifelong-learning"
             <td>Adam Freeman, Steve Sanderson</td>
         </tr>
         <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1372298476l/17152335.jpg" />
+            </td>
             <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/17152335-exam-ref-70-486">
                     Exam Ref 70-486: Developing ASP.NET MVC 4 Web Applications
@@ -87,6 +156,9 @@ path: "/lifelong-learning"
         </tr>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1441748939l/23246326.jpg" />
+            </td>
+            <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/23246326-exam-ref-70-480-programming-in-html5-with-javascript-and-css3-mcsd">
                     Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3 (MCSD): Programming in HTML5 with JavaScript and CSS3
                 </a>
@@ -94,6 +166,9 @@ path: "/lifelong-learning"
             <td>Rick Delorme</td>
         </tr>
         <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1361869513l/16144439.jpg" />
+            </td>
             <td>
                 <a target="_blank" href="https://www.goodreads.com/book/show/16144439-training-guide">
                     Training Guide: Programming in HTML5 with JavaScript and CSS3
@@ -104,7 +179,12 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-##Certificates</h2>
+<h2 id="certificates">
+    <span>Certificates</span>
+    <a href="#certificates" aria-label="Anchor"> #</a>
+    <span> |</span>
+    <a href="https://www.youracclaim.com/user/aivaras-simulis" target="_blank"> <small> YourAcclaim</small></a>
+</h2>
 <table style="width: 100%">
     <colgroup>
        <col span="1" width="80%">
@@ -152,7 +232,8 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-##MOOC courses</h2>
+<h2 id="courses">Courses <a href="#courses" aria-label="Anchor">#</a></h2>
+
 ####[Pluralsight:](https://app.pluralsight.com/)
 <table style="width: 100%">
     <colgroup>
@@ -441,7 +522,7 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-##Meetings</h2>
+<h2 id="meetings">Meetings <a href="#meetings" aria-label="Anchor">#</a></h2>
 <table style="width: 100%">
     <colgroup>
        <col span="1" width="80%">
@@ -468,7 +549,7 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-##Conferences</h2>
+<h2 id="conferences">Conferences <a href="#conferences" aria-label="Anchor">#</a></h2>
 <table style="width: 100%">
     <colgroup>
        <col span="1" width="80%">
@@ -492,5 +573,11 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-##Read articles
+<h2 id="articles">
+    <span>Articles</span>
+    <a href="#articles" aria-label="Anchor"> #</a>
+    <span> |</span>
+    <a href="https://dev.to/aivarassimulis" target="_blank"> <small> dev.to</small></a>
+    <a href="https://medium.com/@aivarassimulis" target="_blank"> <small> medium</small></a>
+</h2>
 More info coming soon...

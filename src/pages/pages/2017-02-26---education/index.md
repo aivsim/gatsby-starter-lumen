@@ -31,6 +31,15 @@ Specialization: "Internet Informatics"<br/>
 <!-- Article material: https://2017.ktu.edu/en/newitem/congratulations-class-2015-dont-be-afraid-achieve -->
 
 ##Publications
+###Parkinson's disease detection using voice signal decomposition
+*Date: Mar 26, 2018*
+
+**Journal: Biomedical Signal Processing and Control (waiting for approval)**
+
+Accurate detection of Parkinson's disease by acoustic analysis of sustained phonation is the goal of this research. Phonation corresponds to the vowel /a/ voicing task and was recorded through two channels simultaneously, namely, acoustic cardioid (AC) and smart phone (SP) microphones. Signal decomposition into intrinsic mode functions (IMFs) is explored in a novel way to create an expert system for medical decision support. Decomposition approaches considered are empirical mode decomposition (EMD) and variational mode decomposition (VMD). Several frequency signatures, -- Bark frequency cepstral coefficients (BFCC), Mel frequency cepstral coefficients (MFCC) and perceptual linear predictive cepstral coefficients (PLPCC), -- are tested as audio descriptors to characterize each extracted IMF as well as the original signal. Random forest (RF) classifier is used both as a base-learner and as a meta-learner for the decision-level fusion. Baseline solution by summarizing cepstral coefficients from all frames of a voice recording through statistical functionals was compared to the proposed solution of using EMD and VMD of a single center frame or three evenly-spaced frames and summarizing base-learner's decisions instead. Experiments indicate that the voice signal decomposition followed by the decision-level fusion is capable to improve the detection performance and achieve the out-of-bag equal error rate of ~1% for AC and ~12% for the SP channel.
+
+<a href="./bspc/thesis.pdf" target="_blank">Read full publication here</a>
+
 ###Voice signal decomposition for Parkinson's disease detection
 *Date: Jun 6, 2017*
 
