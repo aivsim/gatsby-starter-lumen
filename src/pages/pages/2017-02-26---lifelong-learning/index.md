@@ -25,7 +25,7 @@ path: "/lifelong-learning"
         <a href="https://courses.edx.org" target="_blank"> <small> edx</small></a>
     </li>
     <li>
-        <a href="#meetings">Meetings</a>
+        <a href="#meetings">Meetups</a>
         <span> |</span>
     </li>
     <li>
@@ -37,6 +37,7 @@ path: "/lifelong-learning"
         <span> |</span>
         <a href="https://dev.to/aivarassimulis" target="_blank"> <small> dev.to</small></a>,
         <a href="https://medium.com/@aivarassimulis" target="_blank"> <small> medium</small></a>
+        <a href="https://news.ycombinator.com/news" target="_blank"> <small> hackerNews</small></a>
     </li>
 </ul>
 
@@ -193,6 +194,10 @@ path: "/lifelong-learning"
     <thead>
     </thead>
     <tbody>
+        <tr>
+            <td><a target="_blank" href="https://www.youracclaim.com/badges/bef23a36-b889-4c8c-8991-cdb000fadaf2">IBM: Blockchain Foundation Developer</a></td>
+            <td>2018-04-08</td>
+        </tr>
         <tr>
             <td><a target="_blank" href="https://www.youracclaim.com/badges/e2b1e93a-2b91-4b0d-9eb4-51036aaff606/linked_in_profile">IBM: Blockchain Essentials</a></td>
             <td>2018-01-28</td>
@@ -366,7 +371,7 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-####[Microsoft virtual academy:](https://mva.microsoft.com/)
+####[Microsoft Virtual Academy:](https://mva.microsoft.com/)
 <table style="width: 100%">
     <colgroup>
        <col span="1" width="80%">
@@ -522,7 +527,7 @@ path: "/lifelong-learning"
     </tbody>
 </table>
 
-<h2 id="meetings">Meetings <a href="#meetings" aria-label="Anchor">#</a></h2>
+<h2 id="meetings">Meetups <a href="#meetings" aria-label="Anchor">#</a></h2>
 <table style="width: 100%">
     <colgroup>
        <col span="1" width="80%">
@@ -579,5 +584,5 @@ path: "/lifelong-learning"
     <span> |</span>
     <a href="https://dev.to/aivarassimulis" target="_blank"> <small> dev.to</small></a>
     <a href="https://medium.com/@aivarassimulis" target="_blank"> <small> medium</small></a>
+    <a href="https://news.ycombinator.com/news" target="_blank"> <small> hackerNews</small></a>
 </h2>
-More info coming soon...
