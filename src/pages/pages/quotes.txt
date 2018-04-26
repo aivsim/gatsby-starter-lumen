@@ -1,0 +1,13 @@
+Quotes:
+Steve Jobs once said “it doesn’t make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do.”
+I’m sure most developers will be familiar with the following project management joke: “I've set the wedding date. I've not asked her out yet." -How software projects are managed.
+
+the person that did this did it with the best skills, resources, and knowledge they had at the time". I'll try to improve it with the skills, resources, and knowledge I have now. https://dev.to/liquid_chickens/empathy-in-dev-and-ops
+
+No code runs faster than no code.
+No code has fewer bugs than no code.
+No code uses less memory than no code.
+No code is easier to understand than no code.
+
+Mike Perham
+
