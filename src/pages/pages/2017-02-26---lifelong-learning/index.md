@@ -36,7 +36,7 @@ path: "/lifelong-learning"
         <a href="#articles">Articles</a>
         <span> |</span>
         <a href="https://dev.to/aivarassimulis" target="_blank"> <small> dev.to</small></a>,
-        <a href="https://medium.com/@aivarassimulis" target="_blank"> <small> medium</small></a>
+        <a href="https://medium.com/@aivarassimulis" target="_blank"> <small> medium</small></a>,
         <a href="https://news.ycombinator.com/news" target="_blank"> <small> hackerNews</small></a>
     </li>
 </ul>
@@ -563,6 +563,10 @@ path: "/lifelong-learning"
     <thead>
     </thead>
     <tbody>
+        <tr>
+            <td><a target="_blank" href="https://www.eventbrite.com/e/front-end-spring-2018-kaunas-tickets-44983562045#">Front-end Spring 2018. Kaunas</a><br/></td>
+            <td>2018-04-26</td>
+        </tr>
         <tr>
             <td><a target="_blank" href="https://www.facebook.com/events/336812826838800/">Blockchain and Anatomy of Cryptanalysis: A Fashion or Business Tool?</a><br/></td>
             <td>2018-03-09</td>

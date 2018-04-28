@@ -5,7 +5,6 @@ path: "/experience"
 ---
 
 Currently I’m working as a **Full Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in **Blockchain methodologies, Etherium, ICON projects**. Following the news, trying them out by developing some of the demo projects.<br />
-**Accepting freelance jobs and projects.** Feel free to contact me with your proposals.
 
 ##Workplaces
 ####Amidus
