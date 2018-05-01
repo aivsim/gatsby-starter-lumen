@@ -58,6 +58,17 @@ path: "/lifelong-learning"
     <tbody>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1500378481m/35699060.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/35699060-architecting-modern-web-applications-with-asp-net-core-and-azure">
+                    Architecting Modern Web Applications with ASP.NET Core and Azure
+                </a>
+            </td>
+            <td>Steve Smith</td>
+        </tr>
+        <tr>
+            <td>
                 <img src="https://images.gr-assets.com/books/1361113128l/17255186.jpg" />
             </td>
             <td>
