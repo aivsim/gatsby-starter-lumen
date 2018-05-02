@@ -57,3 +57,5 @@ Topics:
 * https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127
 * https://dev.to/kttravers/how-to-work-with-developers---a-guide-for-non-developers-35hk
 * https://dev.to/renascent479/technical-interview-teardown-5b1c
+* https://medium.com/the-mission/14-days-to-transform-your-life-growth-hack-your-way-to-the-life-youve-always-wanted-681253e97ed7
+* https://dev.to/agazaboklicka/how-to-write-a-solid-dev-resume-to-be-2018-star-3h8a

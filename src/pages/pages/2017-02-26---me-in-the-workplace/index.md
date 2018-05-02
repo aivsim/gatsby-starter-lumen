@@ -13,6 +13,8 @@ I am always looking to continue career in a company which meets all of qualifica
 * Opportunity to be creative and innovative;
 * A sense of making something useful;
 
+I'm always looking forward to interesting projects, new opportunities to grow and level up my career. I‘m eager and not afraid to learn and try new technologies, methodologies and patterns. Gaining fresh and new experience is my ongoing lifetime goal. I've been a student my whole life - gaining and sharing knowledge is what I do best.
+
 <hr/>
 
 I have pretty tall demands when it comes to a satisfying work environment. Not only I need to be able to express my creativity and insight, I also need to know that what I am doing has meaning, helps people, leads to personal growth and, all the while, is in line with my values, principles and beliefs.
