@@ -83,3 +83,6 @@ Topics:
 * https://dev.to/agazaboklicka/how-to-write-a-solid-dev-resume-to-be-2018-star-3h8a
 * https://dev.to/joshuaswift/coding-warmups--44oc
 * 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM1NTU2NjQ4XX0=
+-->
