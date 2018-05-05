@@ -69,19 +69,9 @@ Topics:
 * https://mastery.games/p/flexbox-zombies - Flexbox tutorial (first 3 chapters: flex-direction, justify-content, align-items); 
 
 ### Read articles
-* https://dev.to/spboyer/getting-started-with-net-core-2bf9
-* https://dev.to/drminnaar/docker-guide---part-1--57c8
-* https://medium.com/the-mission/14-days-to-transform-your-life-growth-hack-your-way-to-the-life-youve-always-wanted-681253e97ed7
-* https://dev.to/theobendixson/why-i-only-work-remotely-156d
-* https://medium.com/svilenk/the-1-000-floor-elevator-why-most-designers-fail-googles-infamous-interview-design-challenge-a5ff9ad91741
-* https://dev.to/fernandosmonter_80/thinking-your-profession-is-about-work-2nkn
-* https://dev.to/lhuria94/keeping-it-clean-coding-standards-that-matter--4e5p
-* https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127
-* https://dev.to/kttravers/how-to-work-with-developers---a-guide-for-non-developers-35hk
-* https://dev.to/renascent479/technical-interview-teardown-5b1c
-* https://medium.com/the-mission/14-days-to-transform-your-life-growth-hack-your-way-to-the-life-youve-always-wanted-681253e97ed7
-* https://dev.to/agazaboklicka/how-to-write-a-solid-dev-resume-to-be-2018-star-3h8a
-* https://dev.to/joshuaswift/coding-warmups--44oc
+* https://scotch.io/bar-talk/write-less-code-by-creating-snippets-in-visual-studio-code
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTI3NTMwNCwxMTA0MTU3MDcyXX0=
+eyJoaXN0b3J5IjpbMjAyNDEyOTQwOSwtMzE1Mjc1MzA0LDExMD
+QxNTcwNzJdfQ==
 -->
