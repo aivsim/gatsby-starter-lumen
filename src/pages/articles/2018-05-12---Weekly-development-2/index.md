@@ -69,9 +69,9 @@ Topics:
 * https://mastery.games/p/flexbox-zombies - Flexbox tutorial (first 3 chapters: flex-direction, justify-content, align-items); 
 
 ### Read articles
-* https://scotch.io/bar-talk/write-less-code-by-creating-snippets-in-visual-studio-code
+* https://scotch.io/bar-talk/write-less-code-by-creating-snippets-in-visual-studio-code - Learned to create "Visual Studio Code" code snip
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDEyOTQwOSwtMzE1Mjc1MzA0LDExMD
+eyJoaXN0b3J5IjpbLTQ2NzE0OTQzMiwtMzE1Mjc1MzA0LDExMD
 QxNTcwNzJdfQ==
 -->
