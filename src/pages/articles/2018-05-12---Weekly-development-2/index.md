@@ -82,7 +82,6 @@ Topics:
 * https://medium.com/the-mission/14-days-to-transform-your-life-growth-hack-your-way-to-the-life-youve-always-wanted-681253e97ed7
 * https://dev.to/agazaboklicka/how-to-write-a-solid-dev-resume-to-be-2018-star-3h8a
 * https://dev.to/joshuaswift/coding-warmups--44oc
-* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDE1NzA3Ml19
+eyJoaXN0b3J5IjpbLTMxNTI3NTMwNCwxMTA0MTU3MDcyXX0=
 -->
