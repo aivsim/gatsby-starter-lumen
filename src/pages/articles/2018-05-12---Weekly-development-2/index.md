@@ -25,7 +25,7 @@ tags:
 description: ""
 ---
 
-This week was a bit shorter work-wise because of the one holiday day on Thursday. Therefore I managed to read a whole book about system architecture. On Monday I was working from home and I was amazed how much work I managed to get done. It was easier to get into the flow without any distractions. Also, I made a bit of progress on Clean Code book - a realy interesting read, confirming my own opinions about the clean code principles. And on top of that, here and there managed to cram in a few articles."
+This week was a bit shorter work-wise because of t one holiday day on Thursday. Therefore I managed to read a whole book about system architecture. On Monday I was working from home and I was amazed how much work I managed to get done. It was easier to get into the flow without any distractions. Also, I made a bit of progress on Clean Code book - a realy interesting read, confirming my own opinions about the clean code principles. And on top of that, here and there managed to cram in a few articles."
 ---
 
 ### Read articles
@@ -74,7 +74,7 @@ This week was a bit shorter work-wise because of the one holiday day on Thursday
 * https://dev.to/oninross/the-art-of-minimalism-with-ux-4ppd - minimalism in UX design is one of the most preferable choices which evaluates many of the main UX laws. Familiarized with them.
 * https://lawsofux.com/ - UX laws;
 * http://cliffc.org/blog/wp-content/uploads/2018/05/AWarOfWords.pdf - a slideshow presentation, showing how to avoid abuse. It talks more deeply about emotional processing and verbal communication, salary negotiations.
-* https://dev.to/gabeguz/good-practices---code-review-comments-455 - learned how to create code review comments document, which can help to define teams coding standards and style. Here is an example: https://github.com/golang/go/wiki/CodeReviewComments;
+* https://dev.to/gabeguz/good-practices---code-review-comments-455 - learned how to create code review comments document, which can help to define teams coding standards and style. Here is an example: https://github.comhttps://www.twitch.tv/csharpfritz/videos/all - watched a bit of live coding sessions, which used AZURE vision API
 * https://medium.com/swlh/why-ill-never-f-freelance-ever-again-4325889492df - the downside of freelancing. Constantly searching for clients. Lesson? Find a long-term remote job wih great company. It talks more about writing, so it is not very aplicable for developers.
 * https://medium.com/thrive-global/this-fun-15-30-minute-strategy-will-make-your-brain-healthier-and-learn-faster-4a67e82dd81 - learned about different learning methods, how arey fun in their own way and how you should learn different things, not only tied to your profession as developer;
 * https://medium.com/darius-foroux/how-i-work-hard-without-burning-out-4049f56c8d92 - love what you do, don't overestimate yourself, ask for help, don't feel guilty, you can't have it all, exercise, chill;
@@ -86,6 +86,6 @@ This week was a bit shorter work-wise because of the one holiday day on Thursday
 * https://www.youtube.com/watch?v=FXfYSn8qaUE&t=0s&index=4&list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm - A day at IBM;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQxNzQ4NDAsMjAzNjU5OTM4MywtMz
+eyJoaXN0b3J5IjpbLTE3NDQyOTk5MTgsMjAzNjU5OTM4MywtMz
 AxMjAwMjkxLC0zMTUyNzUzMDQsMTEwNDE1NzA3Ml19
 -->
