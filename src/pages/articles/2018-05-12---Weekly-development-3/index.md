@@ -1,6 +1,6 @@
 ---
 title: Weekly development [2] 
-date: "2018-05-12T11:34:00.000Z"
+date: "2018-05-13T12:00.000Z"
 layout: post
 draft: false
 path: "/posts/weekly-development-2/"
@@ -16,17 +16,12 @@ tags:
   - "testing"
   - "architecture"
   - "interview"
-  - "docker"
-  - "designmpostors syndrome"
-  - "knowledge"
+  - "design"
   - "ux"
-  - ".net"
-  - "psychology"
-description: "I took more time and delved a bit deeper into cryptocurrencies - researched more about "RavenCoin". Solved a network location problem with FileSystemWatcher. Found one of the most interesting reads of the weeks from the "moretothat" blog about knowledge. Catch up with Silicon Valley TV series."
+description: "I took more time and delved a bit deeper into cryptocurrencies - researched more about RavenCoin. Solved a network location problem with FileSystemWatcher. Found one of the most interesting reads of the weeks from the moretothat blog about knowledge. Catch up with Silicon Valley TV series."
+---
 
----
 I took more time and delved a bit deeper into cryptocurrencies - researched more about "RavenCoin". Solved a network location problem with FileSystemWatcher. Found one of the most interesting reads of the weeks from the "moretothat" blog about knowledge. Catch up with Silicon Valley TV series.
----
 
 ### Work
 * Web: Update users list filter clause;
@@ -58,6 +53,9 @@ I took more time and delved a bit deeper into cryptocurrencies - researched more
 4. Again it was proven that documentation saves time and energy - we needed to setup development environment for one my colleagues to work on the projects which I am reworking. Instead of one day of work when I had to setup it for myself without documentation, now it was just a bit more than an hour; 
 5. Coached colleague about Azure Blob Storage implementation, accessibility features, our own image service features, proper opportunities to implement CRM task board label functionality, react, redux listing component usage, etc. - more management and soft skills improvements;
 
+### Programming
+* https://mastery.games/courses/139425/lectures/2774760 - a coruse about flex. Managed to get through 7.6 Challenge; Very original and interesting learning concept; 
+
 ### Books
 [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code) - Started to read chapter about Data structures and objects.
 
@@ -81,7 +79,3 @@ I took more time and delved a bit deeper into cryptocurrencies - researched more
 * https://www.twitch.tv/csharpfritz/videos/all - watched a bit of live coding sessions, which used AZURE vision API;
 * https://www.youtube.com/watch?v=0277AINk5xk&t=0s&list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm&index=5 - A day at Amazon with developer;
 * https://www.youtube.com/watch?v=FXfYSn8qaUE&t=0s&index=4&list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm - A day at IBM;
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjQ3MTY5NV19
--->

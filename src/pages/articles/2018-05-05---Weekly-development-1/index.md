@@ -36,6 +36,7 @@ This week was a bit shorter work-wise because of the one holiday day on Thursday
 * BIReports: Add Grupes list;
 * BIReports: Add Grupes edit;
 
+##### What I learned:
 1. Practised making some of the learned new architecture decisions rewriting legacy ASP.NET 4.x projects to .NET Core 2.x. 
 2. Kept the old and the new system working along side at the same time, next to each other without interupting each other using proxy configurations. 
 3. Setup a working solution for the new web implementation and api calls project, gained more practise starting and implementing new projects.
@@ -82,7 +83,3 @@ Topics:
 * https://medium.com/the-mission/14-days-to-transform-your-life-growth-hack-your-way-to-the-life-youve-always-wanted-681253e97ed7
 * https://dev.to/agazaboklicka/how-to-write-a-solid-dev-resume-to-be-2018-star-3h8a
 * https://dev.to/joshuaswift/coding-warmups--44oc
-* 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTU2NjQ4XX0=
--->
