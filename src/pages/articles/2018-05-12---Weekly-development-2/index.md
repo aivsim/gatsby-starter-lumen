@@ -29,7 +29,7 @@ I took more time and delved a bit deeper into cryptocurrencies - researched more
 ---
 
 ### Work
-* Web: Update asmens list filter clause;
+* Web: Update users list filter clause;
 * Cash register: Error message even price is correctly inserted;
 * Cash register: Add additional polyfills for IE browser;
 * Varis: Update varis-ui to 0.2.15;
@@ -83,7 +83,7 @@ I took more time and delved a bit deeper into cryptocurrencies - researched more
 * https://www.youtube.com/watch?v=FXfYSn8qaUE&t=0s&index=4&list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm - A day at IBM;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAyMTYzMzAsOTEyNzI5MDM1LDIwMz
-Y1OTkzODMsLTMwMTIwMDI5MSwtMzE1Mjc1MzA0LDExMDQxNTcw
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTgwNjQ3MTY5NSw5MTI3MjkwMzUsMjAzNj
+U5OTM4MywtMzAxMjAwMjkxLC0zMTUyNzUzMDQsMTEwNDE1NzA3
+Ml19
 -->
