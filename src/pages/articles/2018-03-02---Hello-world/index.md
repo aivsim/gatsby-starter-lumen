@@ -4,7 +4,7 @@ date: "2018-03-01T23:14:37.121Z"
 layout: post
 draft: false
 path: "/posts/hello-world/"
-category: "Introduction"
+category: "Personal"
 tags:
   - "Starting projects"
   - "Learning to write"

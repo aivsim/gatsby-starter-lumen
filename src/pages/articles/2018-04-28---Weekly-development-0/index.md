@@ -82,6 +82,3 @@ Learning a new language can be daunting because we don't like that funny feeling
 * https://dev.to/bradymholt/things-i-have-learned-working-remotely-for-3-years-4ea7
 * https://smallbusinessprogramming.com/code-review-checklist-prevents-stupid-mistakes/ - we needed automated testing combined with code reviews to catch this error.
 * https://dev.to/fbnlsr/10-essential-extensions-for-vscode-174i
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQxMDk0NDldfQ==
--->

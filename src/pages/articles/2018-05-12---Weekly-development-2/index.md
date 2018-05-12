@@ -1,6 +1,6 @@
 ---
 title: Weekly development [2] 
-date: "2018-05-13T12:00.000Z"
+date: "2018-05-12T14:38:00.000Z"
 layout: post
 draft: false
 path: "/posts/weekly-development-2/"
@@ -54,7 +54,7 @@ I took more time and delved a bit deeper into cryptocurrencies - researched more
 5. Coached colleague about Azure Blob Storage implementation, accessibility features, our own image service features, proper opportunities to implement CRM task board label functionality, react, redux listing component usage, etc. - more management and soft skills improvements;
 
 ### Programming
-* https://mastery.games/courses/139425/lectures/2774760 - a coruse about flex. Managed to get through 7.6 Challenge; Very original and interesting learning concept; 
+* https://mastery.games/courses/139425/lectures/2774760 - a course about flex. Managed to get through 7.6 Challenge. Very original and interesting learning concept; 
 
 ### Books
 [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code) - Started to read chapter about Data structures and objects.
