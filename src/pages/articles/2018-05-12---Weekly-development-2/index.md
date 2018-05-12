@@ -22,7 +22,6 @@ tags:
   - "ux"
   - ".net"
   - "psychology"
-  - "services"
 description: ""
 ---
 
@@ -87,6 +86,6 @@ This week was a bit shorter work-wise because of the one holiday day on Thursday
 * https://www.youtube.com/watch?v=FXfYSn8qaUE&t=0s&index=4&list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm - A day at IBM;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjU5OTM4MywtMzAxMjAwMjkxLC0zMT
-UyNzUzMDQsMTEwNDE1NzA3Ml19
+eyJoaXN0b3J5IjpbLTE3ODQxNzQ4NDAsMjAzNjU5OTM4MywtMz
+AxMjAwMjkxLC0zMTUyNzUzMDQsMTEwNDE1NzA3Ml19
 -->
