@@ -22,14 +22,11 @@ tags:
   - "ux"
   - ".net"
   - "psychology"
-description: ""
----
+description: "I took more time and delved a bit deeper into cryptocurrencies - researched more about "RavenCoin". Solved a network location problem with FileSystemWatcher. Found one of the most interesting reads of the weeks from the "moretothat" blog about knowledge. Catch up with Silicon Valley TV series."
 
-This week was a bit shorter work-wise because of t one holiday day on Thursday. Therefore I managed to read a whole book about system architecture. On Monday I was working from home and I was amazed how much work I managed to get done. It was easier to get into the flow without any distractions. Also, I made a bit of progress on Clean Code book - a realy interesting read, confirming my own opinions about the clean code principles. And on top of that, here and there managed to cram in a few articles."
 ---
-
-### Read articles
-* https://scotch.io/bar-talk/write-less-code-by-creating-snippets-in-visual-studio-code - Learned to create "Visual Studio Code" code snippets and bind them to specific keyboard shortcuts which will help to increase my productivity by entering repeating code patterns more quicklyI took more time and delved a bit deeper into cryptocurrencies - researched more about "RavenCoin". Solved a network location problem with FileSystemWatcher. Found one of the most interesting reads of the weeks from the "moretothat" blog about knowledge. Catch up with Silicon Valley TV series.
+I took more time and delved a bit deeper into cryptocurrencies - researched more about "RavenCoin". Solved a network location problem with FileSystemWatcher. Found one of the most interesting reads of the weeks from the "moretothat" blog about knowledge. Catch up with Silicon Valley TV series.
+---
 
 ### Work
 * Web: Update asmens list filter clause;
@@ -86,6 +83,7 @@ This week was a bit shorter work-wise because of t one holiday day on Thursday. 
 * https://www.youtube.com/watch?v=FXfYSn8qaUE&t=0s&index=4&list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm - A day at IBM;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNzI5MDM1LDIwMzY1OTkzODMsLTMwMT
-IwMDI5MSwtMzE1Mjc1MzA0LDExMDQxNTcwNzJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDAyMTYzMzAsOTEyNzI5MDM1LDIwMz
+Y1OTkzODMsLTMwMTIwMDI5MSwtMzE1Mjc1MzA0LDExMDQxNTcw
+NzJdfQ==
 -->
