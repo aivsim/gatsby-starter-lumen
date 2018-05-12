@@ -83,7 +83,5 @@ I took more time and delved a bit deeper into cryptocurrencies - researched more
 * https://www.youtube.com/watch?v=FXfYSn8qaUE&t=0s&index=4&list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm - A day at IBM;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjQ3MTY5NSw5MTI3MjkwMzUsMjAzNj
-U5OTM4MywtMzAxMjAwMjkxLC0zMTUyNzUzMDQsMTEwNDE1NzA3
-Ml19
+eyJoaXN0b3J5IjpbMTgwNjQ3MTY5NV19
 -->
