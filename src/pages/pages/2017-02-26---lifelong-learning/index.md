@@ -392,6 +392,10 @@ path: "/lifelong-learning"
     </thead>
     <tbody>
         <tr>
+            <td><a href="#">Creating Bots in the Microsoft Bot Framework using Node.js</a></td>
+            <td>2018-05-17</td>
+        </tr>
+        <tr>
             <td><a href="#">Mastering Azure App Service, Part 4: Building Azure Mobile Apps</a></td>
             <td>2017-04-30</td>
         </tr>
