@@ -28,7 +28,7 @@ https://madskristensen.net/blog/miniblogcore-is-a-new-blog-engine-built-using-as
 1. Fork https://github.com/madskristensen/Miniblog.Core to your GitHub account;
 2. Clone your forked repository https://github.com/aivsim/Miniblog.Core;
 3. Add upstream repository that has to be synced with your fork.
-   Project folder -> Tortoise settings -> Git -> Remote -> Add new "upstream" 
+   Project folder -> Tortoise settings -> Git -> Remote -> Add new "upstream"
    remote with https://github.com/madskristensen/Miniblog.Core URL;
 4. Fetch the upstream repository;
 5. Pull the upstream repository;
