@@ -80,6 +80,28 @@ path: "/lifelong-learning"
         </tr>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1518291452l/25541028.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/25541028-elon-musk">
+                    Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
+                </a>
+            </td>
+            <td>Ashlee Vance</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1384736553l/18197267.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited">
+                    Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+                </a>
+            </td>
+            <td>Steve Krug</td>
+        </tr>
+        <tr>
+            <td>
                 <img src="https://images.gr-assets.com/books/1349066787l/9778945.jpg" />
             </td>
             <td>
@@ -110,6 +132,28 @@ path: "/lifelong-learning"
                 </a>
             </td>
             <td>Meg Jay</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1457542606l/25136217.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/25136217-you-don-t-know-js">
+                    You Don't Know JS: Up & Going
+                </a>
+            </td>
+            <td>Kyle Simpson</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1298417570l/22463.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/22463.The_Origin_of_Species">
+                    The Origin of Species
+                </a>
+            </td>
+            <td>Charles Darwin</td>
         </tr>
         <tr>
             <td>
