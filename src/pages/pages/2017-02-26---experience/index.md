@@ -7,14 +7,29 @@ path: "/experience"
 Currently I’m working as a **Full Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in **Blockchain methodologies, Etherium, ICON projects**. Following the news, trying them out by developing some of the demo projects.<br />
 
 ##Workplaces
+####Agersi Ltd
+
+<figure class="float-right" style="width: 100px; margin: 0px">
+	<img src="agersi-logo.jpg" alt="Agersi logo">
+</figure>
+
+**Full-Stack Web Developer**<br/>
+*Feb 2018 – Present, Kaunas, Lithuania | Ireland*
+
+- Developing: work with .NET Core 2.0, C# 7.0, Bootstrap 4, Typescript, ReactJS, Redux, Visual Studio, Visual Studio Code, MS SQL Server, Node.js, Webpack, Bitbucket. 
+- Communicating: Remote work with day trips to the office. co-operation on projects with other companies. Managing a small team of several people. Daily meetings with testers, project managers, developers and team leads.
+
+<a href="https://www.linkedin.com/company/agersi-ltd" target="_blank">Visit website</a> |
+<a href="/experience/workplaces/agersi">My story in the company</a>
+
 ####Amidus
 
 <figure class="float-right" style="width: 100px; margin: 0px">
 	<img src="amidus-logo.svg" alt="Amidus logo">
 </figure>
 
-**.NET Web Developer** *(Full Stack)*<br/>
-*Jun 2014 – Present, Kaunas, Lithuania*
+**Full-Stack Web Developer**<br/>
+*Jun 2014 – Jan 2018, Kaunas, Lithuania*
 
 - Developing: work with .NET, .NET Core, C#, HTML5, CSS3, Bootstrap, JavaScript, Typescript, Jquery, KnockoutJS, AngularJS, React, Redux, Flux, D3, EF, Visual Studio, Visual Studio Code, MS SQL Server, Node.js, Webpack, Gulp, TFS, GIT technologies. Developing system, system modules, helping on task and project management.
 - Communicating: Co-operation on projects with other companies. Meetings and communication between testers, project managers and other developers.
@@ -28,7 +43,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 	<img src="callcredit-logo.jpg" alt="Amidus logo">
 </figure>
 
-**.NET Web Developer** *(Internship)*<br/>
+**Full-Stack Web Developer**<br/>
 *Jul 2013 – Aug 2013, Kaunas, Lithuania*
 
 - Developing: work with ASP.NET MVC, C#, T-SQL, HTML, CSS, JavaScript, Jquery, GIT, Visual Studio, Microsoft SQL Server, Windows forms reporting technologies to ensure project stated expectations.
