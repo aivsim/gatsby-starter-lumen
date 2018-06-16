@@ -60,7 +60,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 
 ####Integration platform for the business processes of buyers and suppliers
 *Nov 2014 – Apr 2017, Present - (provide support as advisor)*<br/>
-<a href="http://viacorex.com/en/" target="_blank">Visit website</a> | 
+<a href="https://viacorex.com/" target="_blank">Visit website</a> | 
 <a href="/experience/projects/integration-platform-for-the-business-processes-of-buyers-and-suppliers">Read more</a>
 
 ####Business service center procurement sharepoint site
