@@ -4,7 +4,7 @@ layout: page
 path: "/experience"
 ---
 
-Currently I’m working as a **Full Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in **Blockchain methodologies, Etherium, ICON projects**. Following the news, trying them out by developing some of the demo projects.<br />
+Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in Blockchain methodologies, Etherium, ICON projects. Following the news, trying them out by developing some of the demo projects.<br />
 
 ##Workplaces
 ####Agersi Ltd
@@ -29,7 +29,7 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 </figure>
 
 **Full-Stack Web Developer**<br/>
-*Jun 2014 – Jan 2018, Kaunas, Lithuania*
+*Jun 2014 – Jan 2018 (3 years 8 mos), Kaunas, Lithuania*
 
 - Developing: work with .NET, .NET Core, C#, HTML5, CSS3, Bootstrap, JavaScript, Typescript, Jquery, KnockoutJS, AngularJS, React, Redux, Flux, D3, EF, Visual Studio, Visual Studio Code, MS SQL Server, Node.js, Webpack, Gulp, TFS, GIT technologies. Developing system, system modules, helping on task and project management.
 - Communicating: Co-operation on projects with other companies. Meetings and communication between testers, project managers and other developers.
@@ -43,8 +43,8 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 	<img src="callcredit-logo.jpg" alt="Amidus logo">
 </figure>
 
-**Full-Stack Web Developer**<br/>
-*Jul 2013 – Aug 2013, Kaunas, Lithuania*
+**Back-end Web Developer (Internship)**<br/>
+*Jul 2013 – Aug 2013 (2 mos), Kaunas, Lithuania*
 
 - Developing: work with ASP.NET MVC, C#, T-SQL, HTML, CSS, JavaScript, Jquery, GIT, Visual Studio, Microsoft SQL Server, Windows forms reporting technologies to ensure project stated expectations.
 - Communicating: work experience in a team consisting of 3 team members and nearly 18 assisting staff members. Meetings with team staff, business visionary. Use of Agile project management methodologies.
@@ -76,8 +76,27 @@ Currently I’m working as a **Full Stack Web Developer** with **.NET Core, Node
 <a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a> |
 <a href="/experience/projects/lithuanian-university-of-health-sciences-public-health-care-services-information-system">Read more</a>
 
-####Employees evaluation information system
+####Employees evaluation information system 
 *Jul 2013 – Aug 2013*<br/>
+<figure>
+	<img src="./projects/2018-03-01---employees-evaluation-information-system/header.jpg" alt="Header picture">
+</figure>
+
+* Improved data quality reduced the number of accuracy failures for about 4%;
+* Evaluation system can be changed more easily when needed and it does not impact MI calculations;
+* Decreased risk of missing possible risk, due to alerts and monotoring functions for data quality or processing issues;
+* Efficiency savings were made by enhanced automation, which freed up some human resource in Consumer services team;
+* Improved MI capability reduced time spent in calculating MI manually and reduced risk possibility;
+* System perfectly copes with the amount of data ~3920 disputes per month;
+* Data from all relevant sources (excel files) was loaded to system;
+* All evaluations data is held in one place and accessible for everyone;
+* MI and reporting are available for trend analysis;
+* MI and reporting are available for daily/weekly/monthly/quarterly/yearly basis;
+* Increased consumer satisfaction;
+* Increased employee’s motivation to view MI;
+* More user friendly;
+* Easier to give feedback;
+
 <a href="/experience/projects/employees-evaluation-system">Read more</a>
 
 *All other individual Custom and Demo projects can be found on my <a href="https://github.com/aivsim" target="_blank">GitHub</a> page.*

@@ -6,7 +6,7 @@ path: "/education"
 ##Degree
 
 <figure class="float-right" style="width: 100px; margin: 0px">
-	<img src="ktu-logo.jpg" alt="Aivaras Simulis attended Kaunas University of Technology">
+	<img src="ktu-logo.jpg" alt="Aivaras Šimulis attended Kaunas University of Technology">
 </figure>
 
 **Master’s Degree in Information Systems Engineering**<br/>
@@ -19,7 +19,7 @@ Study program: "Information Systems Engineering"<br/>
 <!-- Article material https://2017.ktu.edu/en/newitem/graduation-ceremony-friday -->
 
 <figure class="float-right" style="width: 100px; margin: 0px">
-	<img src="ktu-logo.jpg" alt="Aivaras Simulis attended Kaunas University of Technology">
+	<img src="ktu-logo.jpg" alt="Aivaras Šimulis attended Kaunas University of Technology">
 </figure>
 
 **Bachelor’s Degree in Informatics**<br/>
