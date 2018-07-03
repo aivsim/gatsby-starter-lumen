@@ -73,9 +73,6 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Lithuania University of Health Sciences public health care services information system
 *Jun 2014 – Apr 2015*<br/>
-<a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a> |
-<a href="/experience/projects/lithuanian-university-of-health-sciences-public-health-care-services-information-system">Read more</a>
-
 <figure>
 	<img src="./projects/2018-03-02---lithuanian-university-of-health-sciences-public-health-care-services-information-system/header.jpg" alt="Header picture">
 </figure>
@@ -88,6 +85,9 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 * Services created an added value for both patients and clinics workers;
 * Designed and upgraded IS;
 * Integrated IS with 3 other system groups;
+
+<a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a> |
+<a href="/experience/projects/lithuanian-university-of-health-sciences-public-health-care-services-information-system">Read more</a>
 
 ####Employees evaluation information system 
 *Jul 2013 – Aug 2013*<br/>
