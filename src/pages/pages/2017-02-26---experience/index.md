@@ -76,6 +76,19 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 <a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a> |
 <a href="/experience/projects/lithuanian-university-of-health-sciences-public-health-care-services-information-system">Read more</a>
 
+<figure>
+	<img src="./projects/2018-03-02---lithuanian-university-of-health-sciences-public-health-care-services-information-system/header.jpg" alt="Header picture">
+</figure>
+
+* 4 services were transferred to the e-space: patient education, patient information and visits, patient services, remote monitoring of severe patients;
+* The developed system modules improved Kaunas clinics provided health care services; 
+* Created opportunities for cost savings, time and money;
+* Reduced the administrative burden;
+* Increased Kaunas clinics service availability and accessibility;
+* Services created an added value for both patients and clinics workers;
+* Designed and upgraded IS;
+* Integrated IS with 3 other system groups;
+
 ####Employees evaluation information system 
 *Jul 2013 – Aug 2013*<br/>
 <figure>
@@ -83,7 +96,7 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 </figure>
 
 * Improved data quality reduced the number of accuracy failures for about 4%;
-* Evaluation system can be changed more easily when needed and it does not impact MI calculations;
+* Evaluation system can be changed more easily when needed and it does not impact MI (Management Information) calculations;
 * Decreased risk of missing possible risk, due to alerts and monotoring functions for data quality or processing issues;
 * Efficiency savings were made by enhanced automation, which freed up some human resource in Consumer services team;
 * Improved MI capability reduced time spent in calculating MI manually and reduced risk possibility;

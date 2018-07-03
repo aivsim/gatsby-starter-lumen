@@ -294,6 +294,26 @@ path: "/lifelong-learning"
 
 <h2 id="courses">Courses <a href="#courses" aria-label="Anchor">#</a></h2>
 
+####Other:
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" width="80%">
+       <col span="1" width="20%">
+    </colgroup>
+    <thead>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://www.vuemastery.com/courses/intro-to-vue-js/tabs">Intro to Vue.js</a></td>
+            <td>2018-06-28</td>
+        </tr>
+        <tr>
+            <td><a href="https://mastery.games/p/flexbox-zombies">Flexbox course</a></td>
+            <td>2018-05-27</td>
+        </tr>
+    </tbody>
+</table>
+
 ####[Pluralsight:](https://app.pluralsight.com/)
 <table style="width: 100%">
     <colgroup>
