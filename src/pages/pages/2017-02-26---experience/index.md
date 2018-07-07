@@ -81,6 +81,11 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Integration platform for the business processes of buyers and suppliers
 *Nov 2014 – Apr 2017, Present - (provide support as advisor)*<br/>
+
+<figure>
+	<img src="./projects/2018-03-05---integration-platform-for-the-business-processes-of-buyers-and-suppliers/header.jpg" alt="Header picture">
+</figure>
+
 <a href="https://viacorex.com/" target="_blank">Visit website</a> | 
 <a href="/experience/projects/integration-platform-for-the-business-processes-of-buyers-and-suppliers">Read more</a>
 
@@ -163,9 +168,9 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 **CURRENT**:
 *Full-Stack Web Developer*.<br/>
 **Technologies**: .NET Core, LINQ, Entity Framework, NodeJS, React, Redux, Redux saga, JavaScript, Typescript, ES7, Bootstrap 4.0, C#, HTML5, CSS3, TSQL, Webpack, GIT, TortoiseGIT.<br/>
-**Tools**: Visual Studio 2017, Visual Studio Code, SQL Management Studio 2014, Profiler, Fiddler, Postman, Notepad++, Snipping, Flux, Chrome DevTools, Redux DevTools, Atlassian Jira, Slack, Skype, Microsoft Teams, Outlook.
+**Tools**: Visual Studio 2017, Visual Studio Code, SQL Management Studio 2014, Profiler, Fiddler, Postman, Notepad++, Flux, Chrome DevTools, Redux DevTools, Atlassian Jira, Slack, Skype, Microsoft Teams, Outlook, Snipping tool, SummatraPDF, Office.
 
 **PREVIOUS**:
 *Full-Stack Web Developer*.<br/>
-**Technologies**: ASP.NET, ASP.NET MVC, Razor pages, Web Forms, Selenium / SoupUI, Telerik UI and Reporting, XML/XSLT, AJAX, Bootstrap (2.0-3.0), Knockout JS, Angular 1.5, JQuery, WCF, Sharepoint, OAuth Authentication, Entity Framework migrations, Gulp<br/>
-**Tools**: Team Foundation Communication, Cisco System VPN Client, Internet Information Services (IIS), MedleyText, OneNote, Trello, Scrum for Trello, Pomodoro timer, Draw.io, Pomello, Sublime, Total Commander.
+**Technologies**: ASP.NET, ASP.NET MVC, Razor pages, Web Forms, Selenium / SoupUI, Telerik UI and Reporting, XML/XSLT, AJAX, Bootstrap (2.0-3.0), Knockout JS, Angular 1.5, JQuery, WCF, Sharepoint, OAuth Authentication, Entity Framework migrations, Gulp, Docker, JUnit<br/>
+**Tools**: Team Foundation Communication, Cisco System VPN Client, Internet Information Services (IIS), MedleyText, OneNote, Trello, Scrum for Trello, Pomodoro timer, Draw.io, Pomello, Sublime, Total Commander, Eclipse, Adobe Reader.
