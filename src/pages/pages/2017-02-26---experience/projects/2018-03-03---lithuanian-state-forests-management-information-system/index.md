@@ -113,8 +113,6 @@ Estimated skill set used for this project: **ASP.NET MVC, C#, LINQ, HTML5, CSS, 
 
 Estimated tools used for this project: **Visual Studio 2015, MS SQL Server 2014**
 
-#### Development/Testing approach and principles
-
 #### Roles and Responsibilities
 Project Visionary, Project Sponsor, Project Manager, Technical Coordinator, Team Leader, Business Ambassador, Business Analyst, Infrastructure, Principal Developer, **Solution Developers (Me and my 5 colleagues)**, Solution Testers, Business Advisors (Architect, DBA, Apps Support, Finance, CST/Ops, HR), Workshop Facilitator **Overall ~8 Team members and ~15 other staff members.**
 

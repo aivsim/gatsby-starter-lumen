@@ -65,6 +65,13 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Business service center procurement sharepoint site
 *Jun 2016 – Jan 2017*<br/>
+<figure>
+	<img src="./projects/2018-03-04---business-service-center-procurement-sharepoint-site/header.jpg" alt="Header picture">
+</figure>
+
+* Created Sharepoint questionnaires solution to view, create and manage their own questionnaire types with various types of inputs;
+* Created several types of fee report forms with dynamical field loading, settings and other various individual key features;
+
 <a href="/experience/projects/business-service-center-procurement-sharepoint-site">Read more</a>
 
 ####Lithuania state forests management information system
