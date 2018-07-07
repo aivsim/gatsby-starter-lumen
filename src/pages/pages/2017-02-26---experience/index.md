@@ -69,6 +69,19 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Lithuania state forests management information system
 *Apr 2015 – Oct 2015*<br/>
+<figure>
+	<img src="./projects/2018-03-03---lithuanian-state-forests-management-information-system/header.jpg" alt="Header picture">
+</figure>
+
+* Ensured the optimization of forest management processes;
+* Ensured the storage of all necessary data in a unified database, data transmission and integration with automated processes;
+* Informaction is filled once and fully complies with its operational needs in management, control, analysis and reporting tasks;
+* Control and analysis in all subsystems, data exchange between forest enterprises and other institutions;
+* Operational availability of data and improved the satisfaction of informations need of users, in accordance with their rights;
+* Data security and recovery opportunity;
+* Report formation and control;
+* Optimization of human resources.
+
 <a href="/experience/projects/lithuanian-state-forests-management-information-system">Read more</a>
 
 ####Lithuania University of Health Sciences public health care services information system
@@ -84,7 +97,7 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 * Increased Kaunas clinics service availability and accessibility;
 * Services created an added value for both patients and clinics workers;
 * Designed and upgraded IS;
-* Integrated IS with 3 other system groups;
+* Integrated IS with 3 other system groups.
 
 <a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a> |
 <a href="/experience/projects/lithuanian-university-of-health-sciences-public-health-care-services-information-system">Read more</a>
@@ -108,7 +121,7 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 * Increased consumer satisfaction;
 * Increased employee’s motivation to view MI;
 * More user friendly;
-* Easier to give feedback;
+* Easier to give feedback.
 
 <a href="/experience/projects/employees-evaluation-system">Read more</a>
 

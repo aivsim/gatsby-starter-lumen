@@ -28,8 +28,7 @@ The main goal of the project was to improve quality, accessibility and availabil
     <a href="#businessProblems" aria-label="Anchor"> #</a>
 </h2>
 
-During the implementation of this project it was planned to transfer several public healthcare services to the web environment. Chosen services were fragmented
-according to the needs of the target group and the specific activities of Kaunas clinics. Patients from all over Lithuania come here for a consultation. The following services were planned to be transferred:
+During the implementation of this project it was planned to transfer several public healthcare services to the web environment. Chosen services were fragmented according to the needs of the target group and the specific activities of Kaunas clinics. Patients from all over Lithuania come here for a consultation. The following services were planned to be transferred:
 * Patient education;
 * Patient information and visits;
 * Patient services;
