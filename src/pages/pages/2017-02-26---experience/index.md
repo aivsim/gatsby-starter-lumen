@@ -82,8 +82,11 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 ####Integration platform for the business processes of buyers and suppliers
 *Nov 2014 – Apr 2017, Present - (provide support as advisor)*<br/>
 
-<figure>
-	<img src="./projects/2018-03-05---integration-platform-for-the-business-processes-of-buyers-and-suppliers/header.jpg" alt="Header picture">
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-05---integration-platform-for-the-business-processes-of-buyers-and-suppliers/header.jpg" 
+		alt="Header picture"
+	>
 </figure>
 
 <a href="https://viacorex.com/" target="_blank">Visit website</a> | 
@@ -91,8 +94,11 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Business service center procurement sharepoint site
 *Jun 2016 – Jan 2017*<br/>
-<figure>
-	<img src="./projects/2018-03-04---business-service-center-procurement-sharepoint-site/header.jpg" alt="Header picture">
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-04---business-service-center-procurement-sharepoint-site/header.jpg"
+		alt="Header picture"
+	>
 </figure>
 
 * Created Sharepoint questionnaires solution to view, create and manage their own questionnaire types with various types of inputs;
@@ -102,8 +108,11 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Lithuania state forests management information system
 *Apr 2015 – Oct 2015*<br/>
-<figure>
-	<img src="./projects/2018-03-03---lithuanian-state-forests-management-information-system/header.jpg" alt="Header picture">
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-03---lithuanian-state-forests-management-information-system/header.jpg"
+		alt="Header picture"
+	>
 </figure>
 
 * Ensured the optimization of forest management processes;
@@ -119,8 +128,11 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Lithuania University of Health Sciences public health care services information system
 *Jun 2014 – Apr 2015*<br/>
-<figure>
-	<img src="./projects/2018-03-02---lithuanian-university-of-health-sciences-public-health-care-services-information-system/header.jpg" alt="Header picture">
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-02---lithuanian-university-of-health-sciences-public-health-care-services-information-system/header.jpg"
+		alt="Header picture"
+	>
 </figure>
 
 * 4 services were transferred to the e-space: patient education, patient information and visits, patient services, remote monitoring of severe patients;
@@ -137,8 +149,11 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####Employees evaluation information system 
 *Jul 2013 – Aug 2013*<br/>
-<figure>
-	<img src="./projects/2018-03-01---employees-evaluation-information-system/header.jpg" alt="Header picture">
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-01---employees-evaluation-information-system/header.jpg"
+		alt="Header picture"
+	>
 </figure>
 
 * Improved data quality reduced the number of accuracy failures for about 4%;
@@ -167,7 +182,7 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 **CURRENT**:
 *Full-Stack Web Developer*.<br/>
-**Technologies**: .NET Core, LINQ, Entity Framework, NodeJS, React, Redux, Redux saga, JavaScript, Typescript, ES7, Bootstrap 4.0, C#, HTML5, CSS3, TSQL, Webpack, GIT, TortoiseGIT.<br/>
+**Technologies**: .NET Core, LINQ, Entity Framework, NodeJS, React, Redux, Redux saga, JavaScript, Typescript, ES7, Bootstrap 4.0, C#, HTML5, CSS3, TSQL, Webpack, GIT, TortoiseGIT. Azure<br/>
 **Tools**: Visual Studio 2017, Visual Studio Code, SQL Management Studio 2014, Profiler, Fiddler, Postman, Notepad++, Flux, Chrome DevTools, Redux DevTools, Atlassian Jira, Slack, Skype, Microsoft Teams, Outlook, Snipping tool, SummatraPDF, Office.
 
 **PREVIOUS**:

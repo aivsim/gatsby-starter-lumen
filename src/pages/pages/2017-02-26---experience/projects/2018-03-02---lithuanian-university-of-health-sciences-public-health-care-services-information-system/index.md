@@ -159,7 +159,7 @@ Estimated skill set used for this project: **ASP.NET MVC, C#, LINQ, HTML5, CSS, 
 
 Javascript libraries: **Select2, Picker, Bootstrap-ColorPicker, CKEditor, Owl-Carousel, FileUpload, Validate**
 
-Estimated tools used for this project: **Visual Studio 2013, MS SQL Server 2014, Team Foundation Communication, Cisco System VPN Client 5.0, Browsers (Internet Explorer, Mozilla Firefox, Chrome, Opera, Safari), Internet Information Services (IIS),**
+Estimated tools used for this project: **Visual Studio 2013, MS SQL Server 2014, Team Foundation Communication, Cisco System VPN Client 5.0, Browsers (Internet Explorer, Mozilla Firefox, Chrome, Opera, Safari), Internet Information Services (IIS)**
 
 #### Development/Testing approach and principles
 All development process was based on Agile principles. All new modules were developed in **Test Driven Development** manner where applicable. 
