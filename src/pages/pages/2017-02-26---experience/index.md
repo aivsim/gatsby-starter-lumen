@@ -6,7 +6,24 @@ path: "/experience"
 
 Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in Blockchain methodologies, Etherium, ICON projects. Following the news, trying them out by developing some of the demo projects.<br />
 
-##Workplaces
+<h2>Contents</h2>
+<ul>
+    <li>
+        <a href="#workplaces">Workplaces</a>
+    </li>
+    <li>
+        <a href="#workProjects">Work Projects</a>
+    </li>
+	<li>
+        <a href="#stack">Stack</a>
+    </li>
+</ul>
+
+<h2 id="workplaces">
+    <span>Workplaces</span>
+    <a href="#workplaces" aria-label="Anchor"> #</a>
+</h2>
+
 ####Agersi Ltd
 
 <figure class="float-right" style="width: 100px; margin: 0px">
@@ -53,28 +70,69 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 <a href="https://www.callcredit.co.uk/about-us" target="_blank">Visit website</a> |
 <a href="/experience/workplaces/callcredit">My story in the company</a>
 
-##Work Projects
+<h2 id="workProjects">
+    <span>Work Projects</span>
+    <a href="#workProjects" aria-label="Anchor"> #</a>
+</h2>
+
 ####E-Health services and cooperation infrastructure information system
 *Apr 2017 – Present*<br/>
 <a href="/experience/projects/e-health-services-and-cooperation-infrastructure-information-system">Read more</a>
 
 ####Integration platform for the business processes of buyers and suppliers
 *Nov 2014 – Apr 2017, Present - (provide support as advisor)*<br/>
+
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-05---integration-platform-for-the-business-processes-of-buyers-and-suppliers/header.jpg" 
+		alt="Header picture"
+	>
+</figure>
+
 <a href="https://viacorex.com/" target="_blank">Visit website</a> | 
 <a href="/experience/projects/integration-platform-for-the-business-processes-of-buyers-and-suppliers">Read more</a>
 
 ####Business service center procurement sharepoint site
 *Jun 2016 – Jan 2017*<br/>
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-04---business-service-center-procurement-sharepoint-site/header.jpg"
+		alt="Header picture"
+	>
+</figure>
+
+* Created Sharepoint questionnaires solution to view, create and manage their own questionnaire types with various types of inputs;
+* Created several types of fee report forms with dynamical field loading, settings and other various individual key features;
+
 <a href="/experience/projects/business-service-center-procurement-sharepoint-site">Read more</a>
 
 ####Lithuania state forests management information system
 *Apr 2015 – Oct 2015*<br/>
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-03---lithuanian-state-forests-management-information-system/header.jpg"
+		alt="Header picture"
+	>
+</figure>
+
+* Ensured the optimization of forest management processes;
+* Ensured the storage of all necessary data in a unified database, data transmission and integration with automated processes;
+* Informaction is filled once and fully complies with its operational needs in management, control, analysis and reporting tasks;
+* Control and analysis in all subsystems, data exchange between forest enterprises and other institutions;
+* Operational availability of data and improved the satisfaction of informations need of users, in accordance with their rights;
+* Data security and recovery opportunity;
+* Report formation and control;
+* Optimization of human resources.
+
 <a href="/experience/projects/lithuanian-state-forests-management-information-system">Read more</a>
 
 ####Lithuania University of Health Sciences public health care services information system
 *Jun 2014 – Apr 2015*<br/>
-<figure>
-	<img src="./projects/2018-03-02---lithuanian-university-of-health-sciences-public-health-care-services-information-system/header.jpg" alt="Header picture">
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-02---lithuanian-university-of-health-sciences-public-health-care-services-information-system/header.jpg"
+		alt="Header picture"
+	>
 </figure>
 
 * 4 services were transferred to the e-space: patient education, patient information and visits, patient services, remote monitoring of severe patients;
@@ -84,15 +142,18 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 * Increased Kaunas clinics service availability and accessibility;
 * Services created an added value for both patients and clinics workers;
 * Designed and upgraded IS;
-* Integrated IS with 3 other system groups;
+* Integrated IS with 3 other system groups.
 
 <a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a> |
 <a href="/experience/projects/lithuanian-university-of-health-sciences-public-health-care-services-information-system">Read more</a>
 
 ####Employees evaluation information system 
 *Jul 2013 – Aug 2013*<br/>
-<figure>
-	<img src="./projects/2018-03-01---employees-evaluation-information-system/header.jpg" alt="Header picture">
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-01---employees-evaluation-information-system/header.jpg"
+		alt="Header picture"
+	>
 </figure>
 
 * Improved data quality reduced the number of accuracy failures for about 4%;
@@ -108,8 +169,23 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 * Increased consumer satisfaction;
 * Increased employee’s motivation to view MI;
 * More user friendly;
-* Easier to give feedback;
+* Easier to give feedback.
 
 <a href="/experience/projects/employees-evaluation-system">Read more</a>
 
 *All other individual Custom and Demo projects can be found on my <a href="https://github.com/aivsim" target="_blank">GitHub</a> page.*
+
+<h2 id="stack">
+    <span>Stack</span>
+    <a href="#stack" aria-label="Anchor"> #</a>
+</h2>
+
+**CURRENT**:
+*Full-Stack Web Developer*.<br/>
+**Technologies**: .NET Core, LINQ, Entity Framework, NodeJS, React, Redux, Redux saga, JavaScript, Typescript, ES7, Bootstrap 4.0, C#, HTML5, CSS3, TSQL, Webpack, GIT, TortoiseGIT. Azure<br/>
+**Tools**: Visual Studio 2017, Visual Studio Code, SQL Management Studio 2014, Profiler, Fiddler, Postman, Notepad++, Flux, Chrome DevTools, Redux DevTools, Atlassian Jira, Slack, Skype, Microsoft Teams, Outlook, Snipping tool, SummatraPDF, Office.
+
+**PREVIOUS**:
+*Full-Stack Web Developer*.<br/>
+**Technologies**: ASP.NET, ASP.NET MVC, Razor pages, Web Forms, Selenium / SoupUI, Telerik UI and Reporting, XML/XSLT, AJAX, Bootstrap (2.0-3.0), Knockout JS, Angular 1.5, JQuery, WCF, Sharepoint, OAuth Authentication, Entity Framework migrations, Gulp, Docker, JUnit<br/>
+**Tools**: Team Foundation Communication, Cisco System VPN Client, Internet Information Services (IIS), MedleyText, OneNote, Trello, Scrum for Trello, Pomodoro timer, Draw.io, Pomello, Sublime, Total Commander, Eclipse, Adobe Reader.
