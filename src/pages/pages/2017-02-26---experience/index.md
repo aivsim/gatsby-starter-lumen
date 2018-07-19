@@ -80,6 +80,13 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 More info soon...
 
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-06---e-health-services-and-cooperation-infrastructure-information-system/header.jpg" 
+		alt="Header picture"
+	>
+</figure>
+
 <a href="/experience/projects/e-health-services-and-cooperation-infrastructure-information-system">Read more</a>
 
 ####Integration platform for the business processes of buyers and suppliers
