@@ -87,6 +87,17 @@ More info soon...
 	>
 </figure>
 
+* Created Arrival tab (state of disobedience, visiting, E025 medical forms, dispatces, agreements, vouchers and tickets);
+* Created E025 and E003 medical forms (complaints and anmnesis, objective evaluation, condition assessment, diagnoses, allergies, research consultation plan, performed laboratory instrumental studies, used medical treatment, performed surgical procedures, applied treatment, recommendations, vaccination appointments, notifications, newborn inspection, certificate of incapacity, notes);
+* Created 3 different prescription forms: recipe, nominal recipe, MPP (illness, medicine search, appointment, dosage, dose calculator, daily dose, additional directions for use, prescription data, duration, information for patient). Actions to prepare sign, sign, save, cancel, reset, close, approve;
+* Implemented sign mechanism for prescriptions and E-forms, communication and integration with other state systems;
+* Created template functionality for variuos forms to reduce time for repetition and creation of simiral forms;
+* Implemented observation dashboard page for institutions to display desired information in waiting, treatment rooms on big screens;
+* Created paid services module, which allowed to form and add services or medication from catalog or individually for specific person to pay at later scale. Implemented payment solution;
+* Integrated created modules and forms with other ESPBI systems (FORME027, EREC01, EVAI01);
+* Created reporting module by using Telerik Reporting tools, dashboards, different types of reports creation, archive, viewability, groups and users management, jobs and tasks cycle;
+* Created UI form components (Sortable, CheckBoxField, DateTimeField, DropDownField, MultipleField, NumberField, PasswordField, RadioButtonListField, RichTextDisplay, TextField, TextAreaField, etc.) and various form structure components for reusability in different places in the project;
+
 <a href="/experience/projects/e-health-services-and-cooperation-infrastructure-information-system">Read more</a>
 
 ####Integration platform for the business processes of buyers and suppliers
