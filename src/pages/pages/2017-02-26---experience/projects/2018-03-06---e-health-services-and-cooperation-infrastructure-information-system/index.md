@@ -8,7 +8,9 @@ path: "/experience/projects/e-health-services-and-cooperation-infrastructure-inf
 	<img src="./header.jpg" alt="Header picture">
 </figure>
 
-E-Health Services and Cooperation Infrastructure Information System data exchange, integration and development
+E-Health Services and Cooperation Infrastructure Information System data exchange, integration and development.
+
+Info is comming soon...
 
 <h2>Contents</h2>
 <ul>

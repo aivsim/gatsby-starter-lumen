@@ -77,6 +77,9 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 ####E-Health services and cooperation infrastructure information system
 *Apr 2017 – Present*<br/>
+
+More information is comming soon...
+
 <a href="/experience/projects/e-health-services-and-cooperation-infrastructure-information-system">Read more</a>
 
 ####Integration platform for the business processes of buyers and suppliers
@@ -88,6 +91,18 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 		alt="Header picture"
 	>
 </figure>
+
+* Implemented more than 10 different e-commerce services: Dashboard, Tenders, Bids, CRM, Partners, Contracts, Catalogs, Requests, Orders, Invoices, Warehouses, User settings, System settings and monitoring and a lot more sub-systems and specific functionality for each of these;
+* Allowed to easily track and fulfill orders in one place and synchronize companies inventory and warehouse;
+* Manage purchase and sales catalogs and their prices;
+* Create orders and knew what stock is located where across multiple warehouses;
+* Organize all companies relationships, contracts, tasks and notes in one place;
+* Customize e-commerce portal for every business client;
+* Access financing and payment solutions in invoices solution;
+* Empowered more companies and their partners to do business online;
+* Automated time-consuming tasks to help companies to concentrate on developing their brand;
+* Streamlined up to 90% of companies productivity and processes;
+* Provided deep insights into business performance;
 
 <a href="https://viacorex.com/" target="_blank">Visit website</a> | 
 <a href="/experience/projects/integration-platform-for-the-business-processes-of-buyers-and-suppliers">Read more</a>
@@ -103,6 +118,7 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 
 * Created Sharepoint questionnaires solution to view, create and manage their own questionnaire types with various types of inputs;
 * Created several types of fee report forms with dynamical field loading, settings and other various individual key features;
+* Allowed business to create their own fiscal reports in more convenient, accurate and accessible way;
 
 <a href="/experience/projects/business-service-center-procurement-sharepoint-site">Read more</a>
 

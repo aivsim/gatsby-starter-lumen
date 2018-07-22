@@ -50,6 +50,7 @@ Project Sponsor, Project Manager, Principal Developer, **Solution Developers (Me
 
 * Created Sharepoint questionnaires solution to view, create and manage their own questionnaire types with various types of inputs;
 * Created several types of fee report forms with dynamical field loading, settings and other various individual key features;
+* Allowed business to create their own fiscal reports in more convenient, accurate and accessible way;
 
 <figure>
 	<img src="./result1.jpg" alt="Result example 1">
