@@ -78,7 +78,14 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 ####E-Health services and cooperation infrastructure information system
 *Apr 2017 – Present*<br/>
 
-More information is comming soon...
+More info soon...
+
+<figure style="border: 1px solid black">
+	<img 
+		src="./projects/2018-03-06---e-health-services-and-cooperation-infrastructure-information-system/header.jpg" 
+		alt="Header picture"
+	>
+</figure>
 
 <a href="/experience/projects/e-health-services-and-cooperation-infrastructure-information-system">Read more</a>
 

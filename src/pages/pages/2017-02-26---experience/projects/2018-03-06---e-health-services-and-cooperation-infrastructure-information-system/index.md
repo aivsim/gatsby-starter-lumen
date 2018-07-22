@@ -12,6 +12,8 @@ E-Health Services and Cooperation Infrastructure Information System data exchang
 
 Info is comming soon...
 
+More info soon...
+
 <h2>Contents</h2>
 <ul>
     <li>
@@ -38,6 +40,7 @@ Info is comming soon...
 #### Requirements
 #### Proposed Hardware and Software
 #### Skills 
+jwt MQRABBIT
 #### Development/Testing approach and principles
 #### Roles and Responsibilities
 
@@ -46,4 +49,62 @@ Info is comming soon...
     <a href="#results" aria-label="Anchor"> #</a>
 </h2>
 
-* 
+<figure>
+	<img src="./login.jpg" alt="Login page">
+    <figcaption>Login page</figcaption>
+</figure>
+
+<figure>
+	<img src="./receipt.jpg" alt="Receipt view">
+    <figcaption>Receipt view</figcaption>
+</figure>
+
+<figure>
+	<img src="./errors.jpg" alt="Errors tab view">
+    <figcaption>Errors tab view</figcaption>
+</figure>
+
+<figure>
+	<img src="./buy.jpg" alt="Buying products page">
+    <figcaption>Buying products page</figcaption>
+</figure>
+
+<figure>
+	<img src="./watcher.jpg" alt="Dashboard for institutions">
+    <figcaption>Dashboard for institutions</figcaption>
+</figure>
+
+<figure>
+	<img src="./varis-ui.jpg" alt="React components storybook">
+    <figcaption>React components storybook</figcaption>
+</figure>
+
+<figure>
+	<img src="./reports-1.jpg" alt="Reports 1">
+    <figcaption>Reports dashboard</figcaption>
+</figure>
+
+<figure>
+	<img src="./reports-2.jpg" alt="Reports 2">
+    <figcaption>Reports diagram</figcaption>
+</figure>
+
+<figure>
+	<img src="./reports-3.jpg" alt="Reports 3">
+    <figcaption>Reports list</figcaption>
+</figure>
+
+<figure>
+	<img src="./reports-4.jpg" alt="Reports 4">
+    <figcaption>Report creation</figcaption>
+</figure>
+
+<figure>
+	<img src="./reports-5.jpg" alt="Reports 5">
+    <figcaption>Generated reports archive</figcaption>
+</figure>
+
+<figure>
+	<img src="./reports-6.jpg" alt="Reports 6">
+    <figcaption>Generated report view</figcaption>
+</figure>
