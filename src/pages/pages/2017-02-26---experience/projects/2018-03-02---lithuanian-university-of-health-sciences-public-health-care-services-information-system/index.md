@@ -10,6 +10,8 @@ path: "/experience/projects/lithuanian-university-of-health-sciences-public-heal
 
 The main goal of the project was to improve quality, accessibility and availability of the Kaunas Clinic healthcare services by transferring them to web and the creation of new e-services. 
 
+<a href="https://portalas.kaunoklinikos.lt/" target="_blank">Visit website</a>
+
 <h2>Contents</h2>
 <ul>
     <li>

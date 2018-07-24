@@ -10,6 +10,8 @@ path: "/experience/projects/integration-platform-for-the-business-processes-of-b
 
 Private business portal which mission is to provide digital e-commerce solutions for buyers and suppliers.
 
+<a href="https://viacorex.com/" target="_blank">Visit website</a>
+
 <h2>Contents</h2>
 <ul>
     <li>

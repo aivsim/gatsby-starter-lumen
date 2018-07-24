@@ -4,7 +4,7 @@ layout: page
 path: "/experience"
 ---
 
-Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, NodeJS, React, Redux, Redux saga, Typescript, ES7, Bootstrap 4.0** technologies. Interested in Blockchain methodologies, Etherium, ICON projects. Following the news, trying them out by developing some of the demo projects.<br />
+Currently I’m working as a **Full-Stack Web Developer** with <a href="#stack">these technologies</a>. I am also interested in Blockchain methodologies, Etherium, ICON, TRON projects. Following the news, trying them out by developing some of the demo projects.<br />
 
 <h2>Contents</h2>
 <ul>
@@ -15,7 +15,7 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
         <a href="#workProjects">Work Projects</a>
     </li>
 	<li>
-        <a href="#stack">Stack</a>
+        <a href="#stack">Current stack</a>
     </li>
 </ul>
 
@@ -33,8 +33,9 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 **Full-Stack Web Developer**<br/>
 *Feb 2018 – Present, Kaunas, Lithuania | Ireland*
 
-- Developing: work with .NET Core 2.0, C# 7.0, Bootstrap 4, Typescript, ReactJS, Redux, Visual Studio, Visual Studio Code, MS SQL Server, Node.js, Webpack, Bitbucket. 
-- Communicating: Remote work with day trips to the office. co-operation on projects with other companies. Managing a small team of several people. Daily meetings with testers, project managers, developers and team leads.
+Trained and managed new employees. Developed e-health related projects, using reusable modules. Working remotely as needed. Co-operation on projects with other companies. Daily meetings with testers, project managers, developers, architects and team leads. Integration with other systems for recipe signing, live data loading by using SignalR, Telerik Reporting implementation. Working in a team of 8 software developers and 6 other team members, business owner, project manager, team leader, software architect and testers.
+
+* .NET Core 2.1, C#, LINQ, HTML5, CSS3, Bootstrap (3.0-4.0), Typescript, JavaScript, ReactJS, Redux Forms, Redux, Redux Saga, NodeJS, JWT, MQRABBIT, SignalR, Webpack, Visual Studio 2017, Visual Studio Code, MS SQL Server 2014, Attlassian Jira, Trello, Microsoft Teams, Skype, Bitbucket.
 
 <a href="https://www.linkedin.com/company/agersi-ltd" target="_blank">Visit website</a> |
 <a href="/experience/workplaces/agersi">My story in the company</a>
@@ -48,8 +49,9 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 **Full-Stack Web Developer**<br/>
 *Jun 2014 – Jan 2018 (3 years 8 mos), Kaunas, Lithuania*
 
-- Developing: work with .NET, .NET Core, C#, HTML5, CSS3, Bootstrap, JavaScript, Typescript, Jquery, KnockoutJS, AngularJS, React, Redux, Flux, D3, EF, Visual Studio, Visual Studio Code, MS SQL Server, Node.js, Webpack, Gulp, TFS, GIT technologies. Developing system, system modules, helping on task and project management.
-- Communicating: Co-operation on projects with other companies. Meetings and communication between testers, project managers and other developers.
+Developing system, system modules, helping on task and project management. Maintaining, improving and building new systems containing of API and several consumer applications. Integrated payment and mail third party APIs. Prepared deployment and server infrastructure, system health and metrics monitoring; improved work processes, security and delivery of quality code. Communicating on projects with other companies, daily meetings. Developed integration platform for the business processes of buyers and suppliers, business service center procurement Sharepoint site, Lithuania state forests management information system and Lithuania University of Health Sciences public health care services information system.
+
+* ASP.NET MVC, .NET Core, C#, Entity Framework, HTML5, CSS3, Bootstrap, JavaScript, Typescript, Jquery, KnockoutJS, AngularJS, React, Redux, Flux, D3, EF, Visual Studio, Visual Studio Code, MS SQL Server, Node.js, Webpack, Gulp, TFS, GIT, WCF, TSQL, Sharepoint, Telerik UI and Reporting, Azure, Hangfire, Trello, Team Foundation Communication, Skype, Slack.
 
 <a href="http://www.amidus.lt/about/" target="_blank">Visit website</a> |
 <a href="/experience/workplaces/amidus">My story in the company</a>
@@ -63,9 +65,9 @@ Currently I’m working as a **Full-Stack Web Developer** with **.NET Core, Node
 **Back-end Web Developer (Internship)**<br/>
 *Jul 2013 – Aug 2013 (2 mos), Kaunas, Lithuania*
 
-- Developing: work with ASP.NET MVC, C#, T-SQL, HTML, CSS, JavaScript, Jquery, GIT, Visual Studio, Microsoft SQL Server, Windows forms reporting technologies to ensure project stated expectations.
-- Communicating: work experience in a team consisting of 3 team members and nearly 18 assisting staff members. Meetings with team staff, business visionary. Use of Agile project management methodologies.
-- Engineering: coding, peer review, unit test, documentation writing activities. Code deployment to QA environment.
+Summer internship at the company. Developed internal employees evaluation information system. Practiced Agile and Scrum methodologies. Worked with a team of 3 software developers and nearly 18 assisting staff members. Meetings with team staff, business visionary. Pair programming, peer review, writing unit tests, documentation. Deployed project to QA and Production environments. Concentrated more on the back-end technologies.
+
+* ASP.NET MVC, C#, T-SQL, HTML, CSS, JavaScript, Jquery, GIT, Visual Studio, Microsoft SQL Server, Windows Forms, reporting technologies, XML/XSLT, GIT, Skype for Business, Live office Agile Board.
 
 <a href="https://www.callcredit.co.uk/about-us" target="_blank">Visit website</a> |
 <a href="/experience/workplaces/callcredit">My story in the company</a>
@@ -210,7 +212,7 @@ More info soon...
 *All other individual Custom and Demo projects can be found on my <a href="https://github.com/aivsim" target="_blank">GitHub</a> page.*
 
 <h2 id="stack">
-    <span>Stack</span>
+    <span>Current stack</span>
     <a href="#stack" aria-label="Anchor"> #</a>
 </h2>
 

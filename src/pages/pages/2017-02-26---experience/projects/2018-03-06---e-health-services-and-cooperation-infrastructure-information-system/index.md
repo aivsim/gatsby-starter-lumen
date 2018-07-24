@@ -28,7 +28,7 @@ The main idea of the project is to offer various e-health services for hospitals
     <a href="#businessProblems" aria-label="Anchor"> #</a>
 </h2>
 
-Medical institutions constantly are searching for wasys to optimise their workload, reduce time needed to complete mandatory task, which can be automated by computers.
+Medical institutions constantly are searching for ways to optimise their workload, reduce time needed to complete mandatory task, which can be automated by computers.
 
 <h2 id="solution">
     <span>2. Solution</span>
@@ -45,9 +45,9 @@ Modules were implemented as follows: visit module, medical forms module prescrip
 At the same time we had to have both: the old and the new system. After several months the user transition was done and the older system pages were refactored and removed from our code base.
 
 #### Skills 
-Estimated skill set used for this project: **ASP.NET MVC, C#, LINQ, HTML5, CSS3, Bootstrap (3.0-4.0), Typescript, JavaScript, ReactJS, Redux Forms, Redux, Redux Saga, NodeJS, JWT, MQRABBIT**
+Estimated skill set used for this project: **.NET Core 2.1, C#, LINQ, HTML5, CSS3, Bootstrap (3.0-4.0), Typescript, JavaScript, ReactJS, Redux Forms, Redux, Redux Saga, NodeJS, JWT, MQRABBIT, Webpack, SignalR, Telerik Reporting**
 
-Estimated tools used for this project: **Visual Studio 2017, Visual Studio Code, MS SQL Server 2014, Attlassian Jira, Trello, Microsoft Teams, Skype**
+Estimated tools used for this project: **Visual Studio 2017, Visual Studio Code, MS SQL Server 2014, Attlassian Jira, Trello, Microsoft Teams, Skype, Bitbucket.**
 
 #### Roles and Responsibilities
 Business Owner, Project Manager, Team Leader, Principal Developer, Software Architect, **8 Solution Developers (Me and my colleagues)**, 3 Solution Testers, **Overall ~14 Team members**
