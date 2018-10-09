@@ -58,6 +58,17 @@ path: "/lifelong-learning"
     <tbody>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1414347376l/18050143.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/18050143-zero-to-one">
+                    Zero to One: Notes on Startups, or How to Build the Future
+                </a>
+            </td>
+            <td>Peter Thiel, Blake Masters</td>
+        </tr>
+        <tr>
+            <td>
                 <img src="https://images.gr-assets.com/books/1500378481m/35699060.jpg" />
             </td>
             <td>

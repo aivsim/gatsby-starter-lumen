@@ -11,3 +11,6 @@ No code is easier to understand than no code.
 
 Mike Perham
 
+
+"Don't belittle yourself and your achievements.";
+
