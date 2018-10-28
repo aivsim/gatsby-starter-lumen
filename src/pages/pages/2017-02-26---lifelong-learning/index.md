@@ -58,6 +58,17 @@ path: "/lifelong-learning"
     <tbody>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1427163007l/23848190.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/23848190-extreme-ownership">
+                    Extreme Ownership: How U.S. Navy SEALs Lead and Win
+                </a>
+            </td>
+            <td>Jocko Willink, Leif Babin</td>
+        </tr>
+        <tr>
+            <td>
                 <img src="https://images.gr-assets.com/books/1414347376l/18050143.jpg" />
             </td>
             <td>
@@ -143,6 +154,28 @@ path: "/lifelong-learning"
                 </a>
             </td>
             <td>Meg Jay</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1334798998l/13523061.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/8520610-quiet?ac=1&from_search=true">
+                    Quiet: The Power of Introverts in a World That Can't Stop Talking
+                </a>
+            </td>
+            <td>Susan Cain</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1511288482l/11084145.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/11084145-steve-jobs?ac=1&from_search=true">
+                    Steve Jobs
+                </a>
+            </td>
+            <td>by Walter Isaacson</td>
         </tr>
         <tr>
             <td>

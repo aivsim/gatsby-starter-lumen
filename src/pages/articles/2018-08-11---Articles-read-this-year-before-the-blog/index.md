@@ -7,7 +7,7 @@ path: "/posts/articles-read-this-year-before-the-blog/"
 category: "Resources"
 tags:
   - "Azure"
-description: ""
+description: "To archive my reading endeavours I decided to collect them and post them here. Much easier access for you and for me. I hope so that you will find something useful for your taste too. Happy reading!"
 ---
 
 Worthy to be re-read again:
