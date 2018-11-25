@@ -58,6 +58,17 @@ path: "/lifelong-learning"
     <tbody>
         <tr>
             <td>
+                <img src="https://images.gr-assets.com/books/1369691030l/335864.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/335864.The_Practicing_Mind">
+                    The Practicing Mind: Bringing Discipline and Focus into Your Life
+                </a>
+            </td>
+            <td>Thomas M. Sterner</td>
+        </tr>
+        <tr>
+            <td>
                 <img src="https://images.gr-assets.com/books/1427163007l/23848190.jpg" />
             </td>
             <td>
@@ -338,378 +349,125 @@ path: "/lifelong-learning"
 
 <h2 id="courses">Courses <a href="#courses" aria-label="Anchor">#</a></h2>
 
-####Other:
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" width="80%">
-       <col span="1" width="20%">
-    </colgroup>
-    <thead>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://www.vuemastery.com/courses/intro-to-vue-js/tabs">Intro to Vue.js</a></td>
-            <td>2018-06-28</td>
-        </tr>
-        <tr>
-            <td><a href="https://mastery.games/p/flexbox-zombies">Flexbox course</a></td>
-            <td>2018-05-27</td>
-        </tr>
-    </tbody>
-</table>
-
 ####[Pluralsight:](https://app.pluralsight.com/)
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" width="80%">
-       <col span="1" width="20%">
-    </colgroup>
-    <thead>
-    </thead>
+<table>
     <tbody>
-        <tr>
-            <td><a href="#">Redux Saga</a></td>
-            <td>2017-12-07</td>
-        </tr>
-        <tr>
-            <td><a href="#">Developing with .NET on Microsoft Azure - Getting Started</a></td>
-            <td>2017-11-19</td>
-        </tr>
-        <tr>
-            <td><a href="#">RabbitMQ for .NET Developers - Part 1</a></td>
-            <td>2017-11-19</td>
-        </tr>
-        <tr>
-            <td><a href="#">Telerik Reporting Fundamentals</a></td>
-            <td>2017-09-25</td>
-        </tr>
-        <tr>
-            <td><a href="#">Building an Enterprise Application with ASP.NET Core MVC</a></td>
-            <td>2017-09-25</td>
-        </tr>
-        <tr>
-            <td><a href="#">Building a Deployment Pipeline for .NET Applications</a></td>
-            <td>2017-09-21</td>
-        </tr>
-        <tr>
-            <td><a href="#">Agile Fundamentals</a></td>
-            <td>2015-07-16</td>
-        </tr>
-        <tr>
-            <td><a href="#">Tactical Design Patterns in .NET: Managing Responsibilities</a></td>
-            <td>2015-07-26</td>
-        </tr>
-        <tr>
-            <td><a href="#">Amazing Things You Can Do With a Web Browser (And a Bit of Code)</a></td>
-            <td>2015-07-20</td>
-        </tr>
-        <tr>
-            <td><a href="#">C# Fundamentals with C# 5.0</a></td>
-            <td>2015-07-18</td>
-        </tr>
-        <tr>
-            <td><a href="#">Learning Technology in the Information Age</a></td>
-            <td>2015-07-18</td>
-        </tr>
-        <tr>
-            <td><a href="#">Play by Play: HTML, CSS, and JavaScript with Lea Verou</a></td>
-            <td>2015-01-01</td>
-        </tr>
-        <tr>
-            <td><a href="#">Introduction to Visual Studio 2013</a></td>
-            <td>2015-01-01</td>
-        </tr>
-        <tr>
-            <td><a href="#">SOLID Principles of Object Oriented Design</a></td>
-            <td>2014-12-30</td>
-        </tr>
-        <tr>
-            <td><a href="#">Introduction to Visual Studio 2013 - Part 1</a></td>
-            <td>2014-12-30</td>
-        </tr>
-        <tr>
-            <td><a href="#">Dependency Injection On-Ramp</a></td>
-            <td>2014-12-12</td>
-        </tr>
-        <tr>
-            <td><a href="#">Abstract Art: Getting Things "Just Right"</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">AngularJS: Get Started</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">ASP.NET MVC 5 Fundamentals</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">What's New in C# 6</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">C# From Scratch</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">C# Interfaces</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">Defensive Coding in C#</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">Introduction to PHP MVC with CakePHP</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">Kendo and MVC From Scratch</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">Building Applications with ASP.NET MVC 4</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">Object-Oriented Programming Fundamentals in C#</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">One ASP.NET From Scratch</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">Building ASP.NET MVC Apps with EF Code First, HTML5, and jQuery</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="#">Clean Code: Writing Code for Humans</a></td>
-            <td></td>
-        </tr>
+		<tr><td><a href="#">Developer to Architect</a></td></tr>
+        <tr><td><a href="#">Redux Saga</a></td></tr>
+        <tr><td><a href="#">Developing with .NET on Microsoft Azure - Getting Started</a></td></tr>
+        <tr><td><a href="#">RabbitMQ for .NET Developers - Part 1</a></td></tr>
+        <tr><td><a href="#">Telerik Reporting Fundamentals</a></td></tr>
+        <tr><td><a href="#">Building an Enterprise Application with ASP.NET Core MVC</a></td></tr>
+        <tr><td><a href="#">Building a Deployment Pipeline for .NET Applications</a></td></tr>
+        <tr><td><a href="#">Agile Fundamentals</a></td></tr>
+        <tr><td><a href="#">Tactical Design Patterns in .NET: Managing Responsibilities</a></td></tr>
+        <tr><td><a href="#">Amazing Things You Can Do With a Web Browser (And a Bit of Code)</a></td></tr>
+        <tr><td><a href="#">C# Fundamentals with C# 5.0</a></td></tr>
+        <tr><td><a href="#">Learning Technology in the Information Age</a></td></tr>
+        <tr><td><a href="#">Play by Play: HTML, CSS, and JavaScript with Lea Verou</a></td></tr>
+        <tr><td><a href="#">Introduction to Visual Studio 2013</a></td></tr>
+        <tr><td><a href="#">SOLID Principles of Object Oriented Design</a></td></tr>
+        <tr><td><a href="#">Introduction to Visual Studio 2013 - Part 1</a></td></tr>
+        <tr><td><a href="#">Dependency Injection On-Ramp</a></td></tr>
+        <tr><td><a href="#">Abstract Art: Getting Things "Just Right"</a></td></tr>
+        <tr><td><a href="#">AngularJS: Get Started</a></td></tr>
+        <tr><td><a href="#">ASP.NET MVC 5 Fundamentals</a></td></tr>
+        <tr><td><a href="#">What's New in C# 6</a></td></tr>
+        <tr><td><a href="#">C# From Scratch</a></td></tr>
+        <tr><td><a href="#">C# Interfaces</a></td></tr>
+        <tr><td><a href="#">Defensive Coding in C#</a></td></tr>
+        <tr><td><a href="#">Introduction to PHP MVC with CakePHP</a></td></tr>
+        <tr><td><a href="#">Kendo and MVC From Scratch</a></td></tr>
+        <tr><td><a href="#">Building Applications with ASP.NET MVC 4</a></td></tr>
+        <tr><td><a href="#">Object-Oriented Programming Fundamentals in C#</a></td></tr>
+        <tr><td><a href="#">One ASP.NET From Scratch</a></td></tr>
+        <tr><td><a href="#">Building ASP.NET MVC Apps with EF Code First, HTML5, and jQuery</a></td></tr>
+        <tr><td><a href="#">Clean Code: Writing Code for Humans</a></td></tr>
     </tbody>
 </table>
 
 ####[Microsoft Virtual Academy:](https://mva.microsoft.com/)
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" width="80%">
-       <col span="1" width="20%">
-    </colgroup>
-    <thead>
-    </thead>
+<table>
     <tbody>
-        <tr>
-            <td><a href="#">Creating Bots in the Microsoft Bot Framework using Node.js</a></td>
-            <td>2018-05-17</td>
-        </tr>
-        <tr>
-            <td><a href="#">Mastering Azure App Service, Part 4: Building Azure Mobile Apps</a></td>
-            <td>2017-04-30</td>
-        </tr>
-        <tr>
-            <td><a href="#">Introduction to Xamarin.Forms</a></td>
-            <td>2016-04-29</td>
-        </tr>
-        <tr>
-            <td><a href="#">Xamarin for Absolute Beginners</a></td>
-            <td>2016-05-09</td>
-        </tr>
-        <tr>
-            <td><a href="#">Using Node.js with Visual Studio Code</a></td>
-            <td>2016-12-13</td>
-        </tr>
-        <tr>
-            <td><a href="#">MongoDB and Redis Caching</a></td>
-            <td>2016-12-11</td>
-        </tr>
-        <tr>
-            <td><a href="#">Introduction to Angular 2.0</a></td>
-            <td>2016-08-03</td>
-        </tr>
-        <tr>
-            <td><a href="#">Game-Changing Features in ES2015</a></td>
-            <td>2016-08-25</td>
-        </tr>
-        <tr>
-            <td><a href="#">Introduction to ASP.NET Core (formerly ASP.NET 5)</a></td>
-            <td>2016-08-23</td>
-        </tr>
-        <tr>
-            <td><a href="#">Mastering Microsoft Certification Exam Prep</a></td>
-            <td>2016-08-14</td>
-        </tr>
-        <tr>
-            <td><a href="#">Database Fundamentals</a></td>
-            <td>2016-08-10</td>
-        </tr>
-        <tr>
-            <td><a href="#">Building Blocks: Web Applications</a></td>
-            <td>2016-06-12</td>
-        </tr>
-        <tr>
-            <td><a href="#">Building Blocks: Game Development</a></td>
-            <td>2016-06-22</td>
-        </tr>
-        <tr>
-            <td><a href="#">React: The Definitive Beginner's Guide</a></td>
-            <td>2016-07-28</td>
-        </tr>
-        <tr>
-            <td><a href="#">Building Blocks: Internet of Things (IoT)</a></td>
-            <td>2016-06-22</td>
-        </tr>
-        <tr>
-            <td><a href="#">Angular Applications with TypeScript</a></td>
-            <td>2016-05-27</td>
-        </tr>
-        <tr>
-            <td><a href="#">Creative Coding Academy</a></td>
-            <td>2016-05-13</td>
-        </tr>
-        <tr>
-            <td><a href="#">21st Century Learning Design</a></td>
-            <td>2016-01-13</td>
-        </tr>
-        <tr>
-            <td><a href="#">A Developer's Guide to Windows 10</a></td>
-            <td>2015-10-14</td>
-        </tr>
-        <tr>
-            <td><a href="#">Getting Started with Windows 10 for IT Professionals</a></td>
-            <td>2015-10-08</td>
-        </tr>
-        <tr>
-            <td><a href="#">Creative Coding Through Games and Apps</a></td>
-            <td>2015-09-10</td>
-        </tr>
-        <tr>
-            <td><a href="#">A Developer's Guide to Windows 10</a></td>
-            <td>2015-06-28</td>
-        </tr>
-        <tr>
-            <td><a href="#">Create HTML5 Apps with jQuery Jump Start</a></td>
-            <td>2015-02-28</td>
-        </tr>
-        <tr>
-            <td><a href="#">Introduction to ASP.NET MVC</a></td>
-            <td>2015-02-28</td>
-        </tr>
-        <tr>
-            <td><a href="#">Building Responsive UI with Bootstrap</a></td>
-            <td>2015-02-20</td>
-        </tr>
-        <tr>
-            <td><a href="#">Microsoft Azure Fundamentals: Websites</a></td>
-            <td>2015-02-16</td>
-        </tr>
-        <tr>
-            <td><a href="#">Developing in HTML5 with JavaScript and CSS3 Jump Start</a></td>
-            <td>2015-02-08</td>
-        </tr>
-        <tr>
-            <td><a href="#">Microsoft Azure Fundamentals</a></td>
-            <td>2015-02-08</td>
-        </tr>
-        <tr>
-            <td><a href="#">What’s New in Windows® 8.1 for IT Professionals</a></td>
-            <td>2013-12-27</td>
-        </tr>
+        <tr><td><a href="#">Creating Bots in the Microsoft Bot Framework using Node.js</a></td></tr>
+        <tr><td><a href="#">Mastering Azure App Service, Part 4: Building Azure Mobile Apps</a></td></tr>
+        <tr><td><a href="#">Introduction to Xamarin.Forms</a></td></tr>
+        <tr><td><a href="#">Xamarin for Absolute Beginners</a></td></tr>
+        <tr><td><a href="#">Using Node.js with Visual Studio Code</a></td></tr>
+        <tr><td><a href="#">MongoDB and Redis Caching</a></td></tr>
+        <tr><td><a href="#">Introduction to Angular 2.0</a></td></tr>
+        <tr><td><a href="#">Game-Changing Features in ES2015</a></td></tr>
+        <tr><td><a href="#">Introduction to ASP.NET Core (formerly ASP.NET 5)</a></td></tr>
+        <tr><td><a href="#">Mastering Microsoft Certification Exam Prep</a></td></tr>
+        <tr><td><a href="#">Database Fundamentals</a></td></tr>
+        <tr><td><a href="#">Building Blocks: Web Applications</a></td></tr>
+        <tr><td><a href="#">Building Blocks: Game Development</a></td></tr>
+        <tr><td><a href="#">React: The Definitive Beginner's Guide</a></td></tr>
+        <tr><td><a href="#">Building Blocks: Internet of Things (IoT)</a></td></tr>
+        <tr><td><a href="#">Angular Applications with TypeScript</a></td></tr>
+        <tr><td><a href="#">Creative Coding Academy</a></td></tr>
+        <tr><td><a href="#">21st Century Learning Design</a></td></tr>
+        <tr><td><a href="#">A Developer's Guide to Windows 10</a></td></tr>
+        <tr><td><a href="#">Getting Started with Windows 10 for IT Professionals</a></td></tr>
+        <tr><td><a href="#">Creative Coding Through Games and Apps</a></td></tr>
+        <tr><td><a href="#">A Developer's Guide to Windows 10</a></td></tr>
+        <tr><td><a href="#">Create HTML5 Apps with jQuery Jump Start</a></td></tr>
+        <tr><td><a href="#">Introduction to ASP.NET MVC</a></td></tr>
+        <tr><td><a href="#">Building Responsive UI with Bootstrap</a></td></tr>
+        <tr><td><a href="#">Microsoft Azure Fundamentals: Websites</a></td></tr>
+        <tr><td><a href="#">Developing in HTML5 with JavaScript and CSS3 Jump Start</a></td></tr>
+        <tr><td><a href="#">Microsoft Azure Fundamentals</a></td></tr>
+        <tr><td><a href="#">What’s New in Windows® 8.1 for IT Professionals</a></td></tr>
     </tbody>
 </table>
 
 ####[Coursera:](https://www.coursera.org/)
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" width="80%">
-       <col span="1" width="20%">
-    </colgroup>
-    <thead>
-    </thead>
+<table>
     <tbody>
-        <tr>
-            <td><a target="_blank" href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn: Powerful mental tools to help you master tough subjects</a></td>
-            <td>2016-01-16</td>
-        </tr>
+        <tr><td><a target="_blank" href="https://www.coursera.org/learn/learning-how-to-learn/">Learning How to Learn: Powerful mental tools to help you master tough subjects</a></td></tr>
     </tbody>
 </table>
 
 ####[Edx:](https://courses.edx.org/)
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" width="80%">
-       <col span="1" width="20%">
-    </colgroup>
-    <thead>
-    </thead>
+<table>
     <tbody>
-        <tr>
-            <td><a target="_blank" href="https://www.edx.org/course/windows-powershell-basics-microsoft-inf210x-2">Windows PowerShell Basics</a></td>
-            <td>2017-10-01</td>
-        </tr>
+        <tr><td><a target="_blank" href="https://www.edx.org/course/windows-powershell-basics-microsoft-inf210x-2">Windows PowerShell Basics</a></td></tr>
+    </tbody>
+</table>
+
+####Other:
+<table>
+    <tbody>
+        <tr><td><a href="https://www.vuemastery.com/courses/intro-to-vue-js/tabs">Intro to Vue.js</a></td></tr>
+        <tr><td><a href="https://mastery.games/p/flexbox-zombies">Flexbox course</a></td></tr>
     </tbody>
 </table>
 
 <h2 id="meetings">Meetups <a href="#meetings" aria-label="Anchor">#</a></h2>
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" width="80%">
-       <col span="1" width="20%">
-    </colgroup>
-    <thead>
-    </thead>
+<table>
     <tbody>
-        <tr>
-            <td><a target="_blank" href="https://www.meetup.com/Kaunas-Blockchain-Meetup/">Kaunas Blockchain Meetup</a></td>
-            <td>2018 - Present</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" href="https://facebook.com/groups/KITclubas/">KIT Club</a></td>
-            <td>2016 - Present</td>
-        </tr><tr>
-            <td><a target="_blank" href="http://kaunasjs.lt/">Kaunas JS</a></td>
-            <td>2016 - Present</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" href="http://dotnetcrowd.lt/">.NET Crowd</a></td>
-            <td>2015 - Present</td>
-        </tr>
+        <tr><td><a target="_blank" href="https://www.meetup.com/Kaunas-Blockchain-Meetup/">Kaunas Blockchain Meetup</a></td></tr>
+        <tr><td><a target="_blank" href="https://facebook.com/groups/KITclubas/">KIT Club</a></td></tr>
+        <tr><td><a target="_blank" href="http://kaunasjs.lt/">Kaunas JS</a></td></tr>
+        <tr><td><a target="_blank" href="http://dotnetcrowd.lt/">.NET Crowd</a></td></tr>
     </tbody>
 </table>
 
 <h2 id="conferences">Conferences <a href="#conferences" aria-label="Anchor">#</a></h2>
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" width="80%">
-       <col span="1" width="20%">
-    </colgroup>
-    <thead>
-    </thead>
+<table>
     <tbody>
-        <tr>
-            <td><a target="_blank" href="https://www.eventbrite.com/e/front-end-spring-2018-kaunas-tickets-44983562045#">Front-end Spring 2018. Kaunas</a><br/></td>
-            <td>2018-04-26</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" href="https://www.facebook.com/events/336812826838800/">Blockchain and Anatomy of Cryptanalysis: A Fashion or Business Tool?</a><br/></td>
-            <td>2018-03-09</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" href="http://agileturas.lt/">Agile Tour Lithuania</a></td>
-            <td>2013 - Present</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" href="https://www.facebook.com/events/739492666186403/">High Load Strategy</a></td>
-            <td>2016</td>
-        </tr>
+        <tr><td><a target="_blank" href="https://www.eventbrite.com/e/front-end-spring-2018-kaunas-tickets-44983562045#">Front-end Spring 2018. Kaunas</a></td></tr>
+        <tr><td><a target="_blank" href="https://www.facebook.com/events/336812826838800/">Blockchain and Anatomy of Cryptanalysis: A Fashion or Business Tool?</a></td></tr>
+        <tr><td><a target="_blank" href="http://agileturas.lt/">Agile Tour Lithuania</a></td></tr>
+        <tr><td><a target="_blank" href="https://www.facebook.com/events/739492666186403/">High Load Strategy</a></td></tr>
     </tbody>
 </table>
 
-<h2 id="articles">
-    <span>Articles</span>
-    <a href="#articles" aria-label="Anchor"> #</a>
-    <span> |</span>
-    <a href="https://dev.to/aivarassimulis" target="_blank"> <small> dev.to</small></a>
-    <a href="https://medium.com/@aivarassimulis" target="_blank"> <small> medium</small></a>
-    <a href="https://news.ycombinator.com/news" target="_blank"> <small> hackerNews</small></a>
-</h2>
+<h2 id="articles">Articles <a href="#articles" aria-label="Anchor">#</a></h2>
+<table>
+    <tbody>
+        <tr><td><a target="_blank" href="https://dev.to/aivarassimulis">dev.to</a></td></tr>
+        <tr><td><a target="_blank" href="https://medium.com/@aivarassimulis">Medium</a></td></tr>
+        <tr><td><a target="_blank" href="https://news.ycombinator.com/news">HackerNews</a></td></tr>
+    </tbody>
+</table>

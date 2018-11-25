@@ -4,12 +4,12 @@ date: "2018-10-28T19:06:00.000Z"
 layout: post
 draft: false
 path: "/posts/extreme-ownership/"
-category: "Book summary"
+category: "Books"
 tags:
   - "Books"
   - "Leadership"
   - "Team"
-description: "A good leader has nothing to prove, but everything to prove."
+description: "A good leader has nothing to prove, but everything to prove | Discipline equals freedom | It’s not what you preach, it’s what you tolerate | Relax. Look around. Make a call | There are no bad teams, only bad leaders | Leaders must own everything in their world. There is no one else to blame | After all, there can be no leadership where there is no team | If you exercise discipline, that too translates to more substantial elements of your life"
 ---
 
 * Take responsibility for your team;
