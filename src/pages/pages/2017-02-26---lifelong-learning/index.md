@@ -19,6 +19,8 @@ path: "/lifelong-learning"
     <li>
         <a href="#courses">Courses</a>
         <span> |</span>
+        <a href="https://aischool.microsoft.com/en-us/profile" target="_blank"> <small> microsoft ai school</small></a>,
+        <a href="https://techprofile.microsoft.com/en-us/aivarassimulis" target="_blank"> <small> microsoft learn</small></a>,
         <a href="https://app.pluralsight.com" target="_blank"> <small> pluralsight</small></a>,
         <a href="https://mva.microsoft.com" target="_blank"> <small> microsoft virtual academy</small></a>,
         <a href="https://www.coursera.org" target="_blank"> <small> coursera</small></a>,
@@ -56,6 +58,39 @@ path: "/lifelong-learning"
     <thead>
     </thead>
     <tbody>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1520831727l/39144913.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/39144913-the-future-computed">
+                    The Future Computed: Artificial Intelligence and its Role in Society 
+                </a>
+            </td>
+            <td>Microsoft Corporation, Brad Smith, Harry Shum</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1473396980l/2612.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/2612.The_Tipping_Point">
+                    The Tipping Point: How Little Things Can Make a Big Difference 
+                </a>
+            </td>
+            <td>Malcolm Gladwell</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://images.gr-assets.com/books/1328562861l/8520610.jpg" />
+            </td>
+            <td>
+                <a target="_blank" href="https://www.goodreads.com/book/show/8520610-quiet">
+                    Quiet: The Power of Introverts in a World That Can't Stop Talking 
+                </a>
+            </td>
+            <td>Susan Cain</td>
+        </tr>
         <tr>
             <td>
                 <img src="https://images.gr-assets.com/books/1369691030l/335864.jpg" />
@@ -305,6 +340,10 @@ path: "/lifelong-learning"
     </thead>
     <tbody>
         <tr>
+            <td><a target="_blank" href="https://academy.microsoft.com/en-us/tracks/artificial-intelligence/">Microsoft Professional Program for Artificial Intelligence track</a></td>
+            <td></td>
+        </tr>
+        <tr>
             <td><a target="_blank" href="https://www.youracclaim.com/badges/bef23a36-b889-4c8c-8991-cdb000fadaf2">IBM: Blockchain Foundation Developer</a></td>
             <td>2018-04-08</td>
         </tr>
@@ -348,6 +387,39 @@ path: "/lifelong-learning"
 </table>
 
 <h2 id="courses">Courses <a href="#courses" aria-label="Anchor">#</a></h2>
+
+####[Microsoft AI School:](https://aischool.microsoft.com/en-us/profile)
+<table>
+    <tbody>
+		<tr><td><a href="#">Introduction to Regression</a></td></tr>
+		<tr><td><a href="#">Introduction to Classification</a></td></tr>
+		<tr><td><a href="#">Advanced Classification Models</a></td></tr>
+		<tr><td><a href="#">Deep Learning</a></td></tr>
+		<tr><td><a href="#">Deep Unsupervised Learning</a></td></tr>
+		<tr><td><a href="#">Unsupervised Learning</a></td></tr>
+		<tr><td><a href="#">Neural Networks</a></td></tr>
+    </tbody>
+</table>
+
+####[Microsoft learn:](https://techprofile.microsoft.com/en-us/aivarassimulis)
+<table>
+    <tbody>
+		<tr><td><a href="#">Introduction to Azure</a></td></tr>
+		<tr><td><a href="#">Principles of cloud computing</a></td></tr>
+		<tr><td><a href="#">Tour Azure services and features</a></td></tr>
+		<tr><td><a href="#">Introduction to Azure compute</a></td></tr>
+		<tr><td><a href="#">Introduction to Azure Storage</a></td></tr>
+		<tr><td><a href="#">Introduction to Azure networking</a></td></tr>
+		<tr><td><a href="#">Introduction to security in Azure</a></td></tr>
+		<tr><td><a href="#">Host a web application with Azure App service</a></td></tr>
+		<tr><td><a href="#">Create an Azure Storage account</a></td></tr>
+		<tr><td><a href="#">Process images with the Computer Vision service /a></td></tr>
+		<tr><td><a href="#">Choose a data storage approach in Azure</a></td></tr>
+		<tr><td><a href="#">Prepare your development environment for Azure development</a></td></tr>
+		<tr><td><a href="#">Publish a web app to Azure with Visual Studio</a></td></tr>
+		<tr><td><a href="#">Choose a messaging model in Azure to loosely connect your services</a></td></tr>
+    </tbody>
+</table>
 
 ####[Pluralsight:](https://app.pluralsight.com/)
 <table>
