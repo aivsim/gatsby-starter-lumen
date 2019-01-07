@@ -528,6 +528,7 @@ path: "/lifelong-learning"
 <h2 id="conferences">Conferences <a href="#conferences" aria-label="Anchor">#</a></h2>
 <table>
     <tbody>
+        <tr><td><a target="_blank" href="https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x5536126abcd">Microsoft Cloud Workshop on Advanced Analytics and Artificial Intelligence</a></td></tr>
         <tr><td><a target="_blank" href="https://www.eventbrite.com/e/front-end-spring-2018-kaunas-tickets-44983562045#">Front-end Spring 2018. Kaunas</a></td></tr>
         <tr><td><a target="_blank" href="https://www.facebook.com/events/336812826838800/">Blockchain and Anatomy of Cryptanalysis: A Fashion or Business Tool?</a></td></tr>
         <tr><td><a target="_blank" href="http://agileturas.lt/">Agile Tour Lithuania</a></td></tr>
